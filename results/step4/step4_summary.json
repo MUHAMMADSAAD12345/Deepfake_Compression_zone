@@ -1,0 +1,56 @@
+{
+  "aac32k": {
+    "n": 110,
+    "median_feat_l2_rel": 0.017959,
+    "median_mel_cos": 0.994298,
+    "ser_agree_rate": 0.8182
+  },
+  "aac64k": {
+    "n": 110,
+    "median_feat_l2_rel": 0.008833,
+    "median_mel_cos": 0.999476,
+    "ser_agree_rate": 0.8909
+  },
+  "aac128k": {
+    "n": 110,
+    "median_feat_l2_rel": 0.003972,
+    "median_mel_cos": 0.999978,
+    "ser_agree_rate": 0.9364
+  },
+  "mp364k": {
+    "n": 110,
+    "median_feat_l2_rel": 0.011137,
+    "median_mel_cos": 0.999618,
+    "ser_agree_rate": 0.7273
+  },
+  "mp3128k": {
+    "n": 110,
+    "median_feat_l2_rel": 0.009004,
+    "median_mel_cos": 0.999993,
+    "ser_agree_rate": 0.7636
+  },
+  "mp3256k": {
+    "n": 110,
+    "median_feat_l2_rel": 0.005089,
+    "median_mel_cos": 1.0,
+    "ser_agree_rate": 0.7909
+  },
+  "opus32k": {
+    "n": 110,
+    "median_feat_l2_rel": 0.020544,
+    "median_mel_cos": 0.998719,
+    "ser_agree_rate": 0.7364
+  },
+  "opus64k": {
+    "n": 110,
+    "median_feat_l2_rel": 0.014181,
+    "median_mel_cos": 0.999654,
+    "ser_agree_rate": 0.8545
+  },
+  "opus128k": {
+    "n": 110,
+    "median_feat_l2_rel": 0.010026,
+    "median_mel_cos": 0.99992,
+    "ser_agree_rate": 0.8727
+  }
+}

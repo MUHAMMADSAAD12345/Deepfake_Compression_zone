@@ -1,0 +1,45 @@
+{
+  "n_videos": 200,
+  "conditions": {
+    "clean": {
+      "n": 70,
+      "auc_cnn": 0.645,
+      "auc_sem": 0.505,
+      "auc_fixed": 0.64,
+      "auc_gated": 0.643,
+      "auc_oracle": 0.645,
+      "mean_w_sem": 0.4362,
+      "mean_gate_heavy_p": 0.5638
+    },
+    "h264_crf18": {
+      "n": 200,
+      "auc_cnn": 0.5141,
+      "auc_sem": 0.5918,
+      "auc_fixed": 0.5196,
+      "auc_gated": 0.521,
+      "auc_oracle": 0.5918,
+      "mean_w_sem": 0.4971,
+      "mean_gate_heavy_p": 0.5029
+    },
+    "h264_crf28": {
+      "n": 200,
+      "auc_cnn": 0.5525,
+      "auc_sem": 0.5161,
+      "auc_fixed": 0.5579,
+      "auc_gated": 0.5696,
+      "auc_oracle": 0.5663,
+      "mean_w_sem": 0.4187,
+      "mean_gate_heavy_p": 0.5813
+    },
+    "h264_crf38": {
+      "n": 200,
+      "auc_cnn": 0.5719,
+      "auc_sem": 0.5329,
+      "auc_fixed": 0.5758,
+      "auc_gated": 0.605,
+      "auc_oracle": 0.5976,
+      "mean_w_sem": 0.3659,
+      "mean_gate_heavy_p": 0.6341
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+ "qad": {
+  "clean": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "h264_crf18": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "h264_crf28": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "h264_crf38": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "hevc_crf18": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "hevc_crf28": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "hevc_crf38": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "av1_crf20": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "av1_crf30": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "av1_crf40": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  }
+ },
+ "plada": {
+  "clean": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "h264_crf18": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "h264_crf28": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "h264_crf38": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "hevc_crf18": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "hevc_crf28": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "hevc_crf38": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "av1_crf20": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "av1_crf30": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "av1_crf40": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  }
+ },
+ "freqdebias": {
+  "clean": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "h264_crf18": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "h264_crf28": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "h264_crf38": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "hevc_crf18": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "hevc_crf28": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "hevc_crf38": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "av1_crf20": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "av1_crf30": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  },
+  "av1_crf40": {
+   "auc": null,
+   "n": 0,
+   "error": "cannot import name 'load_cnn_probs' from 'train_ffpp_cnn' (E:\\Saad_audi deepfakes\\_casr\\train_ffpp_cnn.py)"
+  }
+ }
+}

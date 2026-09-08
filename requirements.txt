@@ -1,0 +1,59 @@
+# CASR Requirements
+# Core ML
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Data Science
+numpy>=1.24.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+opencv-python-headless>=4.8.0
+
+# Image/Video Processing
+ffmpeg-python>=0.2.0
+Pillow>=10.0.0
+
+# Audio
+librosa>=0.10.0
+
+# Quality Metrics
+piq>=0.8.0
+
+# Progress/Logging
+tqdm>=4.66.0
+
+# Config/Serialization
+PyYAML>=6.0.0
+
+# Optional: Jupyter for analysis
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: Plotting
+matplotlib>=3.7.0
+seaborn>=0.13.0
+
+# ==============================
+# Installation Notes:
+# ------------------------------
+# 1. Install PyTorch with CUDA first:
+#    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+#
+# 2. Then install the rest:
+#    pip install -r requirements.txt
+#
+# 3. System dependencies (Ubuntu/Debian):
+#    sudo apt-get install ffmpeg libsm6 libxext6 libxrender-dev libglib2.0-0
+#
+#    Windows: Install FFmpeg and add to PATH
+#    Download from https://ffmpeg.org/download.html
+#
+# 4. GPU Support:
+#    Requires NVIDIA GPU with CUDA 11.8+ and cuDNN
+#    Test: python -c "import torch; print(torch.cuda.is_available())"
+# ==============================

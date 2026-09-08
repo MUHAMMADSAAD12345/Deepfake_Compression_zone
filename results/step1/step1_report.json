@@ -1,0 +1,43 @@
+{
+  "n_rows": 583,
+  "features": {
+    "blockiness": {
+      "spearman_vs_all": 0.6699,
+      "spearman_vs_compressed_only": 0.5742
+    },
+    "zero_dct_ratio": {
+      "spearman_vs_all": 0.6821,
+      "spearman_vs_compressed_only": 0.6562
+    },
+    "grid_std": {
+      "spearman_vs_all": -0.2754,
+      "spearman_vs_compressed_only": -0.221
+    },
+    "brisque": {
+      "spearman_vs_all": 0.3499,
+      "spearman_vs_compressed_only": 0.346
+    }
+  },
+  "ridge": {
+    "test_n": 131,
+    "spearman_pred_vs_true": 0.5407,
+    "r2": 0.2475
+  },
+  "binary_heavy_vs_light_auc": 0.9345,
+  "per_codec_ridge": {
+    "h264": {
+      "n": 360,
+      "spearman_pred_vs_true": 0.7387,
+      "r2": 0.3004
+    },
+    "jpeg": {
+      "n": 163,
+      "spearman_pred_vs_true": 0.9373,
+      "r2": 0.6228
+    }
+  },
+  "ordinal_gate": {
+    "n": 108,
+    "acc_3class": 0.6389
+  }
+}
