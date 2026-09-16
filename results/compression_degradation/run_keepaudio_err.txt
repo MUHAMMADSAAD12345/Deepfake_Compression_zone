@@ -1,0 +1,96 @@
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)
+E:\Saad_audi deepfakes\src\utils\preprocessing.py:58: UserWarning: PySoundFile failed. Trying audioread instead.
+  audio, sr = librosa.load(video_path, sr=AUDIO_SR, mono=True)
+E:\Saad_audi deepfakes\venv\Lib\site-packages\librosa\core\audio.py:184: FutureWarning: librosa.core.audio.__audioread_load
+	Deprecated as of librosa version 0.10.0.
+	It will be removed in librosa version 1.0.
+  y, sr_native = __audioread_load(path, offset, duration, dtype)

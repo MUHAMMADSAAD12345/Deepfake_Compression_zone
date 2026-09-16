@@ -1,0 +1,1695 @@
+  [50/26100] 4s, ~0.08s/vid
+  [100/26100] 8s, ~0.08s/vid
+  [150/26100] 12s, ~0.08s/vid
+  [200/26100] 17s, ~0.08s/vid
+  [250/26100] 27s, ~0.11s/vid
+  [300/26100] 38s, ~0.13s/vid
+  [350/26100] 50s, ~0.14s/vid
+  [400/26100] 61s, ~0.15s/vid
+  [450/26100] 72s, ~0.16s/vid
+  [489/26100] test/000904.mp4: NO FACES skipped
+  [490/26100] test/000905.mp4: NO FACES skipped
+  [491/26100] test/000906.mp4: NO FACES skipped
+  [492/26100] test/000907.mp4: NO FACES skipped
+  [493/26100] test/000908.mp4: NO FACES skipped
+  [494/26100] test/000909.mp4: NO FACES skipped
+  [495/26100] test/000910.mp4: NO FACES skipped
+  [496/26100] test/000911.mp4: NO FACES skipped
+  [500/26100] 82s, ~0.16s/vid
+  [501/26100] test/000916.mp4: NO FACES skipped
+  [502/26100] test/000917.mp4: NO FACES skipped
+  [503/26100] test/000918.mp4: NO FACES skipped
+  [504/26100] test/000919.mp4: NO FACES skipped
+  [505/26100] test/000920.mp4: NO FACES skipped
+  [506/26100] test/000921.mp4: NO FACES skipped
+  [507/26100] test/000922.mp4: NO FACES skipped
+  [508/26100] test/000923.mp4: NO FACES skipped
+  [513/26100] test/000928.mp4: NO FACES skipped
+  [514/26100] test/000929.mp4: NO FACES skipped
+  [515/26100] test/000930.mp4: NO FACES skipped
+  [516/26100] test/000931.mp4: NO FACES skipped
+  [517/26100] test/000932.mp4: NO FACES skipped
+  [518/26100] test/000933.mp4: NO FACES skipped
+  [519/26100] test/000934.mp4: NO FACES skipped
+  [520/26100] test/000935.mp4: NO FACES skipped
+  [521/26100] test/000936.mp4: NO FACES skipped
+  [550/26100] 90s, ~0.16s/vid
+  [600/26100] 101s, ~0.17s/vid
+  [623/26100] test/001038.mp4: NO FACES skipped
+  [624/26100] test/001039.mp4: NO FACES skipped
+  [625/26100] test/001040.mp4: NO FACES skipped
+  [626/26100] test/001041.mp4: NO FACES skipped
+  [627/26100] test/001042.mp4: NO FACES skipped
+  [628/26100] test/001043.mp4: NO FACES skipped
+  [629/26100] test/001044.mp4: NO FACES skipped
+  [630/26100] test/001045.mp4: NO FACES skipped
+  [631/26100] test/001046.mp4: NO FACES skipped
+  [632/26100] test/001047.mp4: NO FACES skipped
+  [633/26100] test/001048.mp4: NO FACES skipped
+  [634/26100] test/001049.mp4: NO FACES skipped
+  [635/26100] test/001050.mp4: NO FACES skipped
+  [650/26100] 109s, ~0.17s/vid
+  [699/26100] test/001114.mp4: NO FACES skipped
+  [700/26100] test/001115.mp4: NO FACES skipped
+  [701/26100] test/001116.mp4: NO FACES skipped
+  [702/26100] test/001117.mp4: NO FACES skipped
+  [703/26100] test/001118.mp4: NO FACES skipped
+  [704/26100] test/001119.mp4: NO FACES skipped
+  [705/26100] test/001120.mp4: NO FACES skipped
+  [710/26100] test/001125.mp4: NO FACES skipped
+  [712/26100] test/001127.mp4: NO FACES skipped
+  [714/26100] test/001129.mp4: NO FACES skipped
+  [715/26100] test/001130.mp4: NO FACES skipped
+  [716/26100] test/001131.mp4: NO FACES skipped
+  [717/26100] test/001132.mp4: NO FACES skipped
+  [718/26100] test/001133.mp4: NO FACES skipped
+  [719/26100] test/001134.mp4: NO FACES skipped
+  [720/26100] test/001135.mp4: NO FACES skipped
+  [722/26100] test/001137.mp4: NO FACES skipped
+  [723/26100] test/001138.mp4: NO FACES skipped
+  [724/26100] test/001139.mp4: NO FACES skipped
+  [727/26100] test/001142.mp4: NO FACES skipped
+  [750/26100] 127s, ~0.17s/vid
+  [758/26100] test/001173.mp4: NO FACES skipped
+  [760/26100] test/001175.mp4: NO FACES skipped
+  [762/26100] test/001177.mp4: NO FACES skipped
+  [763/26100] test/001178.mp4: NO FACES skipped
+  [764/26100] test/001179.mp4: NO FACES skipped
+  [783/26100] test/001198.mp4: NO FACES skipped
+  [800/26100] 135s, ~0.17s/vid
+  [804/26100] test/001219.mp4: NO FACES skipped
+  [805/26100] test/001220.mp4: NO FACES skipped
+  [806/26100] test/001221.mp4: NO FACES skipped
+  [807/26100] test/001222.mp4: NO FACES skipped
+  [839/26100] test/001254.mp4: NO FACES skipped
+  [840/26100] test/001255.mp4: NO FACES skipped
+  [841/26100] test/001256.mp4: NO FACES skipped
+  [842/26100] test/001257.mp4: NO FACES skipped
+  [850/26100] 143s, ~0.17s/vid
+  [900/26100] 153s, ~0.17s/vid
+  [927/26100] test/001342.mp4: NO FACES skipped
+  [929/26100] test/001344.mp4: NO FACES skipped
+  [950/26100] 160s, ~0.17s/vid
+  [960/26100] test/001375.mp4: NO FACES skipped
+  [1000/26100] 168s, ~0.17s/vid
+  [1050/26100] 178s, ~0.17s/vid
+  [1062/26100] test/001478.mp4: NO FACES skipped
+  [1063/26100] test/001479.mp4: NO FACES skipped
+  [1064/26100] test/001480.mp4: NO FACES skipped
+  [1065/26100] test/001481.mp4: NO FACES skipped
+  [1100/26100] 188s, ~0.17s/vid
+  [1150/26100] 199s, ~0.17s/vid
+  [1167/26100] test/001587.mp4: NO FACES skipped
+  [1168/26100] test/001588.mp4: NO FACES skipped
+  [1169/26100] test/001589.mp4: NO FACES skipped
+  [1170/26100] test/001590.mp4: NO FACES skipped
+  [1200/26100] 208s, ~0.17s/vid
+  [1214/26100] test/001638.mp4: NO FACES skipped
+  [1216/26100] test/001640.mp4: NO FACES skipped
+  [1244/26100] test/001668.mp4: NO FACES skipped
+  [1245/26100] test/001669.mp4: NO FACES skipped
+  [1246/26100] test/001670.mp4: NO FACES skipped
+  [1247/26100] test/001671.mp4: NO FACES skipped
+  [1248/26100] test/001672.mp4: NO FACES skipped
+  [1249/26100] test/001673.mp4: NO FACES skipped
+  [1250/26100] test/001674.mp4: NO FACES skipped
+  [1254/26100] test/001678.mp4: NO FACES skipped
+  [1282/26100] test/001706.mp4: NO FACES skipped
+  [1284/26100] test/001708.mp4: NO FACES skipped
+  [1289/26100] test/001713.mp4: NO FACES skipped
+  [1290/26100] test/001714.mp4: NO FACES skipped
+  [1292/26100] test/001716.mp4: NO FACES skipped
+  [1293/26100] test/001717.mp4: NO FACES skipped
+  [1294/26100] test/001718.mp4: NO FACES skipped
+  [1295/26100] test/001719.mp4: NO FACES skipped
+  [1296/26100] test/001720.mp4: NO FACES skipped
+  [1297/26100] test/001721.mp4: NO FACES skipped
+  [1298/26100] test/001722.mp4: NO FACES skipped
+  [1299/26100] test/001723.mp4: NO FACES skipped
+  [1300/26100] test/001724.mp4: NO FACES skipped
+  [1301/26100] test/001725.mp4: NO FACES skipped
+  [1302/26100] test/001726.mp4: NO FACES skipped
+  [1303/26100] test/001727.mp4: NO FACES skipped
+  [1304/26100] test/001728.mp4: NO FACES skipped
+  [1305/26100] test/001729.mp4: NO FACES skipped
+  [1306/26100] test/001730.mp4: NO FACES skipped
+  [1307/26100] test/001731.mp4: NO FACES skipped
+  [1308/26100] test/001732.mp4: NO FACES skipped
+  [1309/26100] test/001733.mp4: NO FACES skipped
+  [1310/26100] test/001734.mp4: NO FACES skipped
+  [1311/26100] test/001735.mp4: NO FACES skipped
+  [1312/26100] test/001736.mp4: NO FACES skipped
+  [1313/26100] test/001737.mp4: NO FACES skipped
+  [1314/26100] test/001738.mp4: NO FACES skipped
+  [1315/26100] test/001739.mp4: NO FACES skipped
+  [1316/26100] test/001740.mp4: NO FACES skipped
+  [1317/26100] test/001741.mp4: NO FACES skipped
+  [1350/26100] 232s, ~0.17s/vid
+  [1356/26100] test/001780.mp4: NO FACES skipped
+  [1357/26100] test/001781.mp4: NO FACES skipped
+  [1358/26100] test/001782.mp4: NO FACES skipped
+  [1400/26100] 240s, ~0.17s/vid
+  [1450/26100] 250s, ~0.17s/vid
+  [1500/26100] 261s, ~0.17s/vid
+  [1524/26100] test/001948.mp4: NO FACES skipped
+  [1525/26100] test/001949.mp4: NO FACES skipped
+  [1526/26100] test/001950.mp4: NO FACES skipped
+  [1527/26100] test/001951.mp4: NO FACES skipped
+  [1528/26100] test/001952.mp4: NO FACES skipped
+  [1529/26100] test/001953.mp4: NO FACES skipped
+  [1530/26100] test/001954.mp4: NO FACES skipped
+  [1531/26100] test/001955.mp4: NO FACES skipped
+  [1533/26100] test/001957.mp4: NO FACES skipped
+  [1534/26100] test/001958.mp4: NO FACES skipped
+  [1535/26100] test/001959.mp4: NO FACES skipped
+  [1536/26100] test/001960.mp4: NO FACES skipped
+  [1537/26100] test/001961.mp4: NO FACES skipped
+  [1538/26100] test/001962.mp4: NO FACES skipped
+  [1539/26100] test/001963.mp4: NO FACES skipped
+  [1540/26100] test/001964.mp4: NO FACES skipped
+  [1541/26100] test/001965.mp4: NO FACES skipped
+  [1542/26100] test/001966.mp4: NO FACES skipped
+  [1543/26100] test/001967.mp4: NO FACES skipped
+  [1544/26100] test/001968.mp4: NO FACES skipped
+  [1545/26100] test/001969.mp4: NO FACES skipped
+  [1546/26100] test/001970.mp4: NO FACES skipped
+  [1547/26100] test/001971.mp4: NO FACES skipped
+  [1548/26100] test/001972.mp4: NO FACES skipped
+  [1550/26100] test/001974.mp4: NO FACES skipped
+  [1553/26100] test/001977.mp4: NO FACES skipped
+  [1554/26100] test/001978.mp4: NO FACES skipped
+  [1555/26100] test/001979.mp4: NO FACES skipped
+  [1556/26100] test/001980.mp4: NO FACES skipped
+  [1557/26100] test/001981.mp4: NO FACES skipped
+  [1558/26100] test/001982.mp4: NO FACES skipped
+  [1560/26100] test/001984.mp4: NO FACES skipped
+  [1600/26100] test/002024.mp4: NO FACES skipped
+  [1603/26100] test/002027.mp4: NO FACES skipped
+  [1604/26100] test/002028.mp4: NO FACES skipped
+  [1605/26100] test/002029.mp4: NO FACES skipped
+  [1606/26100] test/002030.mp4: NO FACES skipped
+  [1607/26100] test/002031.mp4: NO FACES skipped
+  [1608/26100] test/002032.mp4: NO FACES skipped
+  [1609/26100] test/002033.mp4: NO FACES skipped
+  [1610/26100] test/002034.mp4: NO FACES skipped
+  [1611/26100] test/002035.mp4: NO FACES skipped
+  [1612/26100] test/002036.mp4: NO FACES skipped
+  [1650/26100] 283s, ~0.17s/vid
+  [1700/26100] 293s, ~0.17s/vid
+  [1750/26100] 304s, ~0.17s/vid
+  [1800/26100] 315s, ~0.18s/vid
+  [1850/26100] 327s, ~0.18s/vid
+  [1900/26100] 339s, ~0.18s/vid
+  [1950/26100] 349s, ~0.18s/vid
+  [2000/26100] 356s, ~0.18s/vid
+  [2050/26100] 368s, ~0.18s/vid
+  [2100/26100] 380s, ~0.18s/vid
+  [2150/26100] 391s, ~0.18s/vid
+  [2200/26100] 401s, ~0.18s/vid
+  [2250/26100] 412s, ~0.18s/vid
+  [2300/26100] 424s, ~0.18s/vid
+  [2350/26100] 436s, ~0.19s/vid
+  [2400/26100] 448s, ~0.19s/vid
+  [2450/26100] 459s, ~0.19s/vid
+  [2500/26100] 470s, ~0.19s/vid
+  [2550/26100] 481s, ~0.19s/vid
+  [2589/26100] test/003030.mp4: NO FACES skipped
+  [2590/26100] test/003031.mp4: NO FACES skipped
+  [2591/26100] test/003032.mp4: NO FACES skipped
+  [2592/26100] test/003033.mp4: NO FACES skipped
+  [2600/26100] 492s, ~0.19s/vid
+  [2650/26100] 503s, ~0.19s/vid
+  [2652/26100] test/003099.mp4: NO FACES skipped
+  [2653/26100] test/003100.mp4: NO FACES skipped
+  [2654/26100] test/003101.mp4: NO FACES skipped
+  [2655/26100] test/003102.mp4: NO FACES skipped
+  [2656/26100] test/003103.mp4: NO FACES skipped
+  [2657/26100] test/003104.mp4: NO FACES skipped
+  [2658/26100] test/003105.mp4: NO FACES skipped
+  [2663/26100] test/003110.mp4: NO FACES skipped
+  [2664/26100] test/003111.mp4: NO FACES skipped
+  [2665/26100] test/003112.mp4: NO FACES skipped
+  [2666/26100] test/003113.mp4: NO FACES skipped
+  [2691/26100] test/003138.mp4: NO FACES skipped
+  [2700/26100] 513s, ~0.19s/vid
+  [2750/26100] 524s, ~0.19s/vid
+  [2800/26100] 534s, ~0.19s/vid
+  [2850/26100] 545s, ~0.19s/vid
+  [2900/26100] 557s, ~0.19s/vid
+  [2950/26100] 566s, ~0.19s/vid
+  [2995/26100] test/003448.mp4: NO FACES skipped
+  [2997/26100] test/003450.mp4: NO FACES skipped
+  [2998/26100] test/003451.mp4: NO FACES skipped
+  [2999/26100] test/003452.mp4: NO FACES skipped
+  [3000/26100] test/003453.mp4: NO FACES skipped
+  [3001/26100] test/003454.mp4: NO FACES skipped
+  [3002/26100] test/003455.mp4: NO FACES skipped
+  [3003/26100] test/003456.mp4: NO FACES skipped
+  [3025/26100] test/003478.mp4: NO FACES skipped
+  [3026/26100] test/003479.mp4: NO FACES skipped
+  [3027/26100] test/003480.mp4: NO FACES skipped
+  [3028/26100] test/003481.mp4: NO FACES skipped
+  [3037/26100] test/003490.mp4: NO FACES skipped
+  [3046/26100] test/003499.mp4: NO FACES skipped
+  [3047/26100] test/003500.mp4: NO FACES skipped
+  [3049/26100] test/003502.mp4: NO FACES skipped
+  [3050/26100] test/003503.mp4: NO FACES skipped
+  [3080/26100] test/003533.mp4: NO FACES skipped
+  [3082/26100] test/003535.mp4: NO FACES skipped
+  [3087/26100] test/003540.mp4: NO FACES skipped
+  [3088/26100] test/003541.mp4: NO FACES skipped
+  [3089/26100] test/003542.mp4: NO FACES skipped
+  [3090/26100] test/003543.mp4: NO FACES skipped
+  [3091/26100] test/003544.mp4: NO FACES skipped
+  [3092/26100] test/003545.mp4: NO FACES skipped
+  [3093/26100] test/003546.mp4: NO FACES skipped
+  [3094/26100] test/003547.mp4: NO FACES skipped
+  [3099/26100] test/003552.mp4: NO FACES skipped
+  [3100/26100] test/003553.mp4: NO FACES skipped
+  [3101/26100] test/003554.mp4: NO FACES skipped
+  [3102/26100] test/003555.mp4: NO FACES skipped
+  [3103/26100] test/003556.mp4: NO FACES skipped
+  [3104/26100] test/003557.mp4: NO FACES skipped
+  [3105/26100] test/003558.mp4: NO FACES skipped
+  [3106/26100] test/003559.mp4: NO FACES skipped
+  [3107/26100] test/003560.mp4: NO FACES skipped
+  [3108/26100] test/003561.mp4: NO FACES skipped
+  [3109/26100] test/003562.mp4: NO FACES skipped
+  [3130/26100] test/003583.mp4: NO FACES skipped
+  [3132/26100] test/003585.mp4: NO FACES skipped
+  [3133/26100] test/003586.mp4: NO FACES skipped
+  [3138/26100] test/003591.mp4: NO FACES skipped
+  [3139/26100] test/003592.mp4: NO FACES skipped
+  [3140/26100] test/003593.mp4: NO FACES skipped
+  [3141/26100] test/003594.mp4: NO FACES skipped
+  [3142/26100] test/003595.mp4: NO FACES skipped
+  [3143/26100] test/003596.mp4: NO FACES skipped
+  [3144/26100] test/003597.mp4: NO FACES skipped
+  [3145/26100] test/003598.mp4: NO FACES skipped
+  [3150/26100] 600s, ~0.19s/vid
+  [3200/26100] 611s, ~0.19s/vid
+  [3250/26100] 623s, ~0.19s/vid
+  [3300/26100] 635s, ~0.19s/vid
+  [3350/26100] 648s, ~0.19s/vid
+  [3400/26100] 660s, ~0.19s/vid
+  [3450/26100] 671s, ~0.19s/vid
+  [3500/26100] 682s, ~0.19s/vid
+  [3550/26100] 694s, ~0.20s/vid
+  [3586/26100] test/004048.mp4: NO FACES skipped
+  [3587/26100] test/004049.mp4: NO FACES skipped
+  [3588/26100] test/004050.mp4: NO FACES skipped
+  [3589/26100] test/004051.mp4: NO FACES skipped
+  [3600/26100] 704s, ~0.20s/vid
+  [3618/26100] test/005768.mp4: NO FACES skipped
+  [3626/26100] test/005776.mp4: NO FACES skipped
+  [3650/26100] 714s, ~0.20s/vid
+  [3670/26100] test/005820.mp4: NO FACES skipped
+  [3671/26100] test/005821.mp4: NO FACES skipped
+  [3672/26100] test/005822.mp4: NO FACES skipped
+  [3673/26100] test/005823.mp4: NO FACES skipped
+  [3675/26100] test/005825.mp4: NO FACES skipped
+  [3676/26100] test/005826.mp4: NO FACES skipped
+  [3700/26100] 723s, ~0.20s/vid
+  [3712/26100] test/005862.mp4: NO FACES skipped
+  [3713/26100] test/005863.mp4: NO FACES skipped
+  [3714/26100] test/005864.mp4: NO FACES skipped
+  [3715/26100] test/005865.mp4: NO FACES skipped
+  [3716/26100] test/005866.mp4: NO FACES skipped
+  [3717/26100] test/005867.mp4: NO FACES skipped
+  [3718/26100] test/005868.mp4: NO FACES skipped
+  [3719/26100] test/005869.mp4: NO FACES skipped
+  [3720/26100] test/005870.mp4: NO FACES skipped
+  [3721/26100] test/005871.mp4: NO FACES skipped
+  [3722/26100] test/005872.mp4: NO FACES skipped
+  [3723/26100] test/005873.mp4: NO FACES skipped
+  [3724/26100] test/005874.mp4: NO FACES skipped
+  [3725/26100] test/005875.mp4: NO FACES skipped
+  [3726/26100] test/005876.mp4: NO FACES skipped
+  [3727/26100] test/005877.mp4: NO FACES skipped
+  [3728/26100] test/005878.mp4: NO FACES skipped
+  [3733/26100] test/005883.mp4: NO FACES skipped
+  [3734/26100] test/005884.mp4: NO FACES skipped
+  [3735/26100] test/005885.mp4: NO FACES skipped
+  [3736/26100] test/005886.mp4: NO FACES skipped
+  [3739/26100] test/005889.mp4: NO FACES skipped
+  [3741/26100] test/005891.mp4: NO FACES skipped
+  [3743/26100] test/005893.mp4: NO FACES skipped
+  [3744/26100] test/005894.mp4: NO FACES skipped
+  [3750/26100] 730s, ~0.19s/vid
+  [3800/26100] 740s, ~0.19s/vid
+  [3839/26100] test/005989.mp4: NO FACES skipped
+  [3841/26100] test/005991.mp4: NO FACES skipped
+  [3842/26100] test/005992.mp4: NO FACES skipped
+  [3850/26100] 751s, ~0.19s/vid
+  [3891/26100] test/007359.mp4: NO FACES skipped
+  [3892/26100] test/007360.mp4: NO FACES skipped
+  [3893/26100] test/007361.mp4: NO FACES skipped
+  [3894/26100] test/007362.mp4: NO FACES skipped
+  [3900/26100] 761s, ~0.20s/vid
+  [3904/26100] test/007373.mp4: NO FACES skipped
+  [3913/26100] test/007383.mp4: NO FACES skipped
+  [3914/26100] test/007384.mp4: NO FACES skipped
+  [3915/26100] test/007385.mp4: NO FACES skipped
+  [3916/26100] test/007386.mp4: NO FACES skipped
+  [3919/26100] test/007391.mp4: NO FACES skipped
+  [3950/26100] 771s, ~0.20s/vid
+  [4000/26100] 782s, ~0.20s/vid
+  [4023/26100] test/007504.mp4: NO FACES skipped
+  [4024/26100] test/007505.mp4: NO FACES skipped
+  [4025/26100] test/007506.mp4: NO FACES skipped
+  [4026/26100] test/007507.mp4: NO FACES skipped
+  [4034/26100] test/007515.mp4: NO FACES skipped
+  [4035/26100] test/007516.mp4: NO FACES skipped
+  [4036/26100] test/007517.mp4: NO FACES skipped
+  [4037/26100] test/007518.mp4: NO FACES skipped
+  [4038/26100] test/007519.mp4: NO FACES skipped
+  [4040/26100] test/007521.mp4: NO FACES skipped
+  [4042/26100] test/007523.mp4: NO FACES skipped
+  [4043/26100] test/007524.mp4: NO FACES skipped
+  [4044/26100] test/007525.mp4: NO FACES skipped
+  [4045/26100] test/007526.mp4: NO FACES skipped
+  [4046/26100] test/007527.mp4: NO FACES skipped
+  [4047/26100] test/007528.mp4: NO FACES skipped
+  [4048/26100] test/007529.mp4: NO FACES skipped
+  [4049/26100] test/007530.mp4: NO FACES skipped
+  [4050/26100] test/007531.mp4: NO FACES skipped
+  [4051/26100] test/007532.mp4: NO FACES skipped
+  [4052/26100] test/007533.mp4: NO FACES skipped
+  [4053/26100] test/007534.mp4: NO FACES skipped
+  [4054/26100] test/007535.mp4: NO FACES skipped
+  [4055/26100] test/007536.mp4: NO FACES skipped
+  [4056/26100] test/007537.mp4: NO FACES skipped
+  [4057/26100] test/007538.mp4: NO FACES skipped
+  [4058/26100] test/007539.mp4: NO FACES skipped
+  [4063/26100] test/007544.mp4: NO FACES skipped
+  [4065/26100] test/007546.mp4: NO FACES skipped
+  [4067/26100] test/007548.mp4: NO FACES skipped
+  [4068/26100] test/007549.mp4: NO FACES skipped
+  [4069/26100] test/007550.mp4: NO FACES skipped
+  [4070/26100] test/007551.mp4: NO FACES skipped
+  [4071/26100] test/007552.mp4: NO FACES skipped
+  [4072/26100] test/007553.mp4: NO FACES skipped
+  [4073/26100] test/007554.mp4: NO FACES skipped
+  [4074/26100] test/007555.mp4: NO FACES skipped
+  [4075/26100] test/007556.mp4: NO FACES skipped
+  [4076/26100] test/007557.mp4: NO FACES skipped
+  [4077/26100] test/007558.mp4: NO FACES skipped
+  [4078/26100] test/007559.mp4: NO FACES skipped
+  [4100/26100] 799s, ~0.19s/vid
+  [4150/26100] 810s, ~0.20s/vid
+  [4200/26100] 822s, ~0.20s/vid
+  [4217/26100] test/009563.mp4: NO FACES skipped
+  [4250/26100] 833s, ~0.20s/vid
+  [4300/26100] 845s, ~0.20s/vid
+  [4350/26100] 857s, ~0.20s/vid
+  [4400/26100] 870s, ~0.20s/vid
+  [4450/26100] 881s, ~0.20s/vid
+  [4455/26100] test/009801.mp4: NO FACES skipped
+  [4456/26100] test/009802.mp4: NO FACES skipped
+  [4457/26100] test/009803.mp4: NO FACES skipped
+  [4500/26100] 890s, ~0.20s/vid
+  [4502/26100] test/009849.mp4: NO FACES skipped
+  [4503/26100] test/009850.mp4: NO FACES skipped
+  [4505/26100] test/009852.mp4: NO FACES skipped
+  [4506/26100] test/009853.mp4: NO FACES skipped
+  [4550/26100] 899s, ~0.20s/vid
+  [4566/26100] test/009913.mp4: NO FACES skipped
+  [4600/26100] test/009947.mp4: NO FACES skipped
+  [4601/26100] test/009948.mp4: NO FACES skipped
+  [4602/26100] test/009949.mp4: NO FACES skipped
+  [4603/26100] test/009950.mp4: NO FACES skipped
+  [4604/26100] test/009951.mp4: NO FACES skipped
+  [4605/26100] test/009952.mp4: NO FACES skipped
+  [4606/26100] test/009953.mp4: NO FACES skipped
+  [4607/26100] test/009954.mp4: NO FACES skipped
+  [4611/26100] test/009958.mp4: NO FACES skipped
+  [4640/26100] test/009987.mp4: NO FACES skipped
+  [4641/26100] test/009988.mp4: NO FACES skipped
+  [4642/26100] test/009989.mp4: NO FACES skipped
+  [4647/26100] test/009994.mp4: NO FACES skipped
+  [4650/26100] 917s, ~0.20s/vid
+  [4700/26100] 929s, ~0.20s/vid
+  [4718/26100] test/010065.mp4: NO FACES skipped
+  [4719/26100] test/010066.mp4: NO FACES skipped
+  [4720/26100] test/010067.mp4: NO FACES skipped
+  [4721/26100] test/010068.mp4: NO FACES skipped
+  [4722/26100] test/010069.mp4: NO FACES skipped
+  [4727/26100] test/010074.mp4: NO FACES skipped
+  [4728/26100] test/010075.mp4: NO FACES skipped
+  [4729/26100] test/010076.mp4: NO FACES skipped
+  [4730/26100] test/010077.mp4: NO FACES skipped
+  [4736/26100] test/010083.mp4: NO FACES skipped
+  [4737/26100] test/010084.mp4: NO FACES skipped
+  [4738/26100] test/010085.mp4: NO FACES skipped
+  [4739/26100] test/010086.mp4: NO FACES skipped
+  [4740/26100] test/010087.mp4: NO FACES skipped
+  [4741/26100] test/010088.mp4: NO FACES skipped
+  [4743/26100] test/010090.mp4: NO FACES skipped
+  [4744/26100] test/010091.mp4: NO FACES skipped
+  [4745/26100] test/010092.mp4: NO FACES skipped
+  [4746/26100] test/010093.mp4: NO FACES skipped
+  [4747/26100] test/010094.mp4: NO FACES skipped
+  [4750/26100] 938s, ~0.20s/vid
+  [4800/26100] 951s, ~0.20s/vid
+  [4850/26100] 964s, ~0.20s/vid
+  [4860/26100] test/012476.mp4: NO FACES skipped
+  [4862/26100] test/012478.mp4: NO FACES skipped
+  [4864/26100] test/012480.mp4: NO FACES skipped
+  [4865/26100] test/012481.mp4: NO FACES skipped
+  [4866/26100] test/012482.mp4: NO FACES skipped
+  [4867/26100] test/012483.mp4: NO FACES skipped
+  [4868/26100] test/012484.mp4: NO FACES skipped
+  [4869/26100] test/012485.mp4: NO FACES skipped
+  [4870/26100] test/012486.mp4: NO FACES skipped
+  [4871/26100] test/012487.mp4: NO FACES skipped
+  [4872/26100] test/012488.mp4: NO FACES skipped
+  [4873/26100] test/012489.mp4: NO FACES skipped
+  [4874/26100] test/012490.mp4: NO FACES skipped
+  [4875/26100] test/012491.mp4: NO FACES skipped
+  [4876/26100] test/012492.mp4: NO FACES skipped
+  [4877/26100] test/012493.mp4: NO FACES skipped
+  [4878/26100] test/012494.mp4: NO FACES skipped
+  [4879/26100] test/012495.mp4: NO FACES skipped
+  [4880/26100] test/012496.mp4: NO FACES skipped
+  [4881/26100] test/012497.mp4: NO FACES skipped
+  [4882/26100] test/012498.mp4: NO FACES skipped
+  [4883/26100] test/012499.mp4: NO FACES skipped
+  [4884/26100] test/012500.mp4: NO FACES skipped
+  [4885/26100] test/012501.mp4: NO FACES skipped
+  [4886/26100] test/012502.mp4: NO FACES skipped
+  [4888/26100] test/012504.mp4: NO FACES skipped
+  [4889/26100] test/012505.mp4: NO FACES skipped
+  [4890/26100] test/012506.mp4: NO FACES skipped
+  [4891/26100] test/012507.mp4: NO FACES skipped
+  [4892/26100] test/012508.mp4: NO FACES skipped
+  [4893/26100] test/012509.mp4: NO FACES skipped
+  [4894/26100] test/012510.mp4: NO FACES skipped
+  [4895/26100] test/012511.mp4: NO FACES skipped
+  [4896/26100] test/012512.mp4: NO FACES skipped
+  [4897/26100] test/012513.mp4: NO FACES skipped
+  [4898/26100] test/012514.mp4: NO FACES skipped
+  [4899/26100] test/012515.mp4: NO FACES skipped
+  [4900/26100] test/012516.mp4: NO FACES skipped
+  [4901/26100] test/012517.mp4: NO FACES skipped
+  [4902/26100] test/012518.mp4: NO FACES skipped
+  [4903/26100] test/012519.mp4: NO FACES skipped
+  [4904/26100] test/012520.mp4: NO FACES skipped
+  [4905/26100] test/012521.mp4: NO FACES skipped
+  [4906/26100] test/012522.mp4: NO FACES skipped
+  [4907/26100] test/012523.mp4: NO FACES skipped
+  [4908/26100] test/012524.mp4: NO FACES skipped
+  [4913/26100] test/012529.mp4: NO FACES skipped
+  [4914/26100] test/012530.mp4: NO FACES skipped
+  [4915/26100] test/012531.mp4: NO FACES skipped
+  [4916/26100] test/012532.mp4: NO FACES skipped
+  [4917/26100] test/012533.mp4: NO FACES skipped
+  [4918/26100] test/012534.mp4: NO FACES skipped
+  [4919/26100] test/012535.mp4: NO FACES skipped
+  [4920/26100] test/012536.mp4: NO FACES skipped
+  [4921/26100] test/012537.mp4: NO FACES skipped
+  [4924/26100] test/012540.mp4: NO FACES skipped
+  [4929/26100] test/012545.mp4: NO FACES skipped
+  [4930/26100] test/012546.mp4: NO FACES skipped
+  [4934/26100] test/012550.mp4: NO FACES skipped
+  [4935/26100] test/012551.mp4: NO FACES skipped
+  [4936/26100] test/012552.mp4: NO FACES skipped
+  [4937/26100] test/012553.mp4: NO FACES skipped
+  [4938/26100] test/012554.mp4: NO FACES skipped
+  [4939/26100] test/012555.mp4: NO FACES skipped
+  [4940/26100] test/012556.mp4: NO FACES skipped
+  [4941/26100] test/012557.mp4: NO FACES skipped
+  [4942/26100] test/012558.mp4: NO FACES skipped
+  [4943/26100] test/012559.mp4: NO FACES skipped
+  [4944/26100] test/012560.mp4: NO FACES skipped
+  [4945/26100] test/012561.mp4: NO FACES skipped
+  [4946/26100] test/012562.mp4: NO FACES skipped
+  [4947/26100] test/012563.mp4: NO FACES skipped
+  [4948/26100] test/012564.mp4: NO FACES skipped
+  [4949/26100] test/012565.mp4: NO FACES skipped
+  [4950/26100] test/012566.mp4: NO FACES skipped
+  [4951/26100] test/012567.mp4: NO FACES skipped
+  [4952/26100] test/012568.mp4: NO FACES skipped
+  [4953/26100] test/012569.mp4: NO FACES skipped
+  [4954/26100] test/012570.mp4: NO FACES skipped
+  [4959/26100] test/012575.mp4: NO FACES skipped
+  [4960/26100] test/012576.mp4: NO FACES skipped
+  [4961/26100] test/012577.mp4: NO FACES skipped
+  [4962/26100] test/012578.mp4: NO FACES skipped
+  [4963/26100] test/012579.mp4: NO FACES skipped
+  [4964/26100] test/012580.mp4: NO FACES skipped
+  [4965/26100] test/012581.mp4: NO FACES skipped
+  [4966/26100] test/012582.mp4: NO FACES skipped
+  [4967/26100] test/012583.mp4: NO FACES skipped
+  [4968/26100] test/012584.mp4: NO FACES skipped
+  [4969/26100] test/012585.mp4: NO FACES skipped
+  [4970/26100] test/012586.mp4: NO FACES skipped
+  [4971/26100] test/012587.mp4: NO FACES skipped
+  [4972/26100] test/012588.mp4: NO FACES skipped
+  [4973/26100] test/012589.mp4: NO FACES skipped
+  [4974/26100] test/012590.mp4: NO FACES skipped
+  [4975/26100] test/012591.mp4: NO FACES skipped
+  [4976/26100] test/012592.mp4: NO FACES skipped
+  [4977/26100] test/012593.mp4: NO FACES skipped
+  [4978/26100] test/012594.mp4: NO FACES skipped
+  [4980/26100] test/012596.mp4: NO FACES skipped
+  [4985/26100] test/012601.mp4: NO FACES skipped
+  [4986/26100] test/012602.mp4: NO FACES skipped
+  [4987/26100] test/012603.mp4: NO FACES skipped
+  [4988/26100] test/012604.mp4: NO FACES skipped
+  [4989/26100] test/012605.mp4: NO FACES skipped
+  [4990/26100] test/012606.mp4: NO FACES skipped
+  [4991/26100] test/012607.mp4: NO FACES skipped
+  [4992/26100] test/012608.mp4: NO FACES skipped
+  [4993/26100] test/012609.mp4: NO FACES skipped
+  [4994/26100] test/012610.mp4: NO FACES skipped
+  [4995/26100] test/012611.mp4: NO FACES skipped
+  [4996/26100] test/012612.mp4: NO FACES skipped
+  [4997/26100] test/012613.mp4: NO FACES skipped
+  [4998/26100] test/012614.mp4: NO FACES skipped
+  [5000/26100] test/012616.mp4: NO FACES skipped
+  [5005/26100] test/012621.mp4: NO FACES skipped
+  [5006/26100] test/012622.mp4: NO FACES skipped
+  [5007/26100] test/012623.mp4: NO FACES skipped
+  [5008/26100] test/012624.mp4: NO FACES skipped
+  [5009/26100] test/012625.mp4: NO FACES skipped
+  [5010/26100] test/012626.mp4: NO FACES skipped
+  [5011/26100] test/012627.mp4: NO FACES skipped
+  [5012/26100] test/012628.mp4: NO FACES skipped
+  [5013/26100] test/012629.mp4: NO FACES skipped
+  [5014/26100] test/012630.mp4: NO FACES skipped
+  [5015/26100] test/012631.mp4: NO FACES skipped
+  [5016/26100] test/012632.mp4: NO FACES skipped
+  [5017/26100] test/012633.mp4: NO FACES skipped
+  [5018/26100] test/012634.mp4: NO FACES skipped
+  [5019/26100] test/012635.mp4: NO FACES skipped
+  [5020/26100] test/012636.mp4: NO FACES skipped
+  [5021/26100] test/012637.mp4: NO FACES skipped
+  [5024/26100] test/012640.mp4: NO FACES skipped
+  [5026/26100] test/012642.mp4: NO FACES skipped
+  [5027/26100] test/012643.mp4: NO FACES skipped
+  [5028/26100] test/012644.mp4: NO FACES skipped
+  [5029/26100] test/012645.mp4: NO FACES skipped
+  [5030/26100] test/012646.mp4: NO FACES skipped
+  [5031/26100] test/012647.mp4: NO FACES skipped
+  [5032/26100] test/012648.mp4: NO FACES skipped
+  [5033/26100] test/012649.mp4: NO FACES skipped
+  [5034/26100] test/012650.mp4: NO FACES skipped
+  [5035/26100] test/012651.mp4: NO FACES skipped
+  [5036/26100] test/012652.mp4: NO FACES skipped
+  [5037/26100] test/012653.mp4: NO FACES skipped
+  [5038/26100] test/012654.mp4: NO FACES skipped
+  [5039/26100] test/012655.mp4: NO FACES skipped
+  [5040/26100] test/012656.mp4: NO FACES skipped
+  [5041/26100] test/012657.mp4: NO FACES skipped
+  [5042/26100] test/012658.mp4: NO FACES skipped
+  [5043/26100] test/012659.mp4: NO FACES skipped
+  [5044/26100] test/012660.mp4: NO FACES skipped
+  [5045/26100] test/012661.mp4: NO FACES skipped
+  [5046/26100] test/012662.mp4: NO FACES skipped
+  [5050/26100] 986s, ~0.20s/vid
+  [5077/26100] test/012693.mp4: NO FACES skipped
+  [5078/26100] test/012694.mp4: NO FACES skipped
+  [5079/26100] test/012695.mp4: NO FACES skipped
+  [5080/26100] test/012696.mp4: NO FACES skipped
+  [5081/26100] test/012697.mp4: NO FACES skipped
+  [5082/26100] test/012698.mp4: NO FACES skipped
+  [5083/26100] test/012699.mp4: NO FACES skipped
+  [5084/26100] test/012700.mp4: NO FACES skipped
+  [5085/26100] test/012701.mp4: NO FACES skipped
+  [5086/26100] test/012702.mp4: NO FACES skipped
+  [5087/26100] test/012703.mp4: NO FACES skipped
+  [5088/26100] test/012704.mp4: NO FACES skipped
+  [5089/26100] test/012705.mp4: NO FACES skipped
+  [5090/26100] test/012706.mp4: NO FACES skipped
+  [5091/26100] test/012707.mp4: NO FACES skipped
+  [5092/26100] test/012708.mp4: NO FACES skipped
+  [5093/26100] test/012709.mp4: NO FACES skipped
+  [5094/26100] test/012710.mp4: NO FACES skipped
+  [5095/26100] test/012711.mp4: NO FACES skipped
+  [5099/26100] test/012715.mp4: NO FACES skipped
+  [5100/26100] test/012716.mp4: NO FACES skipped
+  [5101/26100] test/012717.mp4: NO FACES skipped
+  [5102/26100] test/012718.mp4: NO FACES skipped
+  [5103/26100] test/012719.mp4: NO FACES skipped
+  [5105/26100] test/012721.mp4: NO FACES skipped
+  [5106/26100] test/012722.mp4: NO FACES skipped
+  [5107/26100] test/012723.mp4: NO FACES skipped
+  [5108/26100] test/012724.mp4: NO FACES skipped
+  [5110/26100] test/012726.mp4: NO FACES skipped
+  [5111/26100] test/012727.mp4: NO FACES skipped
+  [5112/26100] test/012728.mp4: NO FACES skipped
+  [5113/26100] test/012729.mp4: NO FACES skipped
+  [5115/26100] test/012731.mp4: NO FACES skipped
+  [5116/26100] test/012732.mp4: NO FACES skipped
+  [5117/26100] test/012733.mp4: NO FACES skipped
+  [5118/26100] test/012734.mp4: NO FACES skipped
+  [5119/26100] test/012736.mp4: NO FACES skipped
+  [5120/26100] test/012737.mp4: NO FACES skipped
+  [5128/26100] test/012746.mp4: NO FACES skipped
+  [5129/26100] test/012748.mp4: NO FACES skipped
+  [5150/26100] 1001s, ~0.19s/vid
+  [5168/26100] test/012792.mp4: NO FACES skipped
+  [5179/26100] test/012803.mp4: NO FACES skipped
+  [5180/26100] test/012804.mp4: NO FACES skipped
+  [5181/26100] test/012805.mp4: NO FACES skipped
+  [5183/26100] test/012807.mp4: NO FACES skipped
+  [5184/26100] test/012808.mp4: NO FACES skipped
+  [5185/26100] test/012809.mp4: NO FACES skipped
+  [5200/26100] 1009s, ~0.19s/vid
+  [5201/26100] test/012826.mp4: NO FACES skipped
+  [5202/26100] test/012827.mp4: NO FACES skipped
+  [5203/26100] test/012828.mp4: NO FACES skipped
+  [5212/26100] test/012837.mp4: NO FACES skipped
+  [5213/26100] test/012838.mp4: NO FACES skipped
+  [5214/26100] test/012839.mp4: NO FACES skipped
+  [5215/26100] test/012840.mp4: NO FACES skipped
+  [5216/26100] test/012841.mp4: NO FACES skipped
+  [5217/26100] test/012842.mp4: NO FACES skipped
+  [5218/26100] test/012843.mp4: NO FACES skipped
+  [5219/26100] test/012844.mp4: NO FACES skipped
+  [5220/26100] test/012845.mp4: NO FACES skipped
+  [5221/26100] test/012846.mp4: NO FACES skipped
+  [5222/26100] test/012847.mp4: NO FACES skipped
+  [5223/26100] test/012848.mp4: NO FACES skipped
+  [5224/26100] test/012849.mp4: NO FACES skipped
+  [5225/26100] test/012850.mp4: NO FACES skipped
+  [5226/26100] test/012851.mp4: NO FACES skipped
+  [5227/26100] test/012852.mp4: NO FACES skipped
+  [5228/26100] test/012853.mp4: NO FACES skipped
+  [5229/26100] test/012854.mp4: NO FACES skipped
+  [5230/26100] test/012855.mp4: NO FACES skipped
+  [5232/26100] test/012857.mp4: NO FACES skipped
+  [5233/26100] test/012858.mp4: NO FACES skipped
+  [5234/26100] test/012859.mp4: NO FACES skipped
+  [5235/26100] test/012860.mp4: NO FACES skipped
+  [5236/26100] test/012861.mp4: NO FACES skipped
+  [5237/26100] test/012862.mp4: NO FACES skipped
+  [5238/26100] test/012863.mp4: NO FACES skipped
+  [5239/26100] test/012864.mp4: NO FACES skipped
+  [5240/26100] test/012865.mp4: NO FACES skipped
+  [5241/26100] test/012866.mp4: NO FACES skipped
+  [5242/26100] test/012867.mp4: NO FACES skipped
+  [5243/26100] test/012868.mp4: NO FACES skipped
+  [5244/26100] test/012869.mp4: NO FACES skipped
+  [5245/26100] test/012870.mp4: NO FACES skipped
+  [5246/26100] test/012871.mp4: NO FACES skipped
+  [5247/26100] test/012872.mp4: NO FACES skipped
+  [5248/26100] test/012873.mp4: NO FACES skipped
+  [5249/26100] test/012874.mp4: NO FACES skipped
+  [5250/26100] test/012875.mp4: NO FACES skipped
+  [5251/26100] test/012876.mp4: NO FACES skipped
+  [5252/26100] test/012877.mp4: NO FACES skipped
+  [5253/26100] test/012878.mp4: NO FACES skipped
+  [5254/26100] test/012879.mp4: NO FACES skipped
+  [5255/26100] test/012880.mp4: NO FACES skipped
+  [5300/26100] 1025s, ~0.19s/vid
+  [5350/26100] 1036s, ~0.19s/vid
+  [5379/26100] test/021961.mp4: NO FACES skipped
+  [5380/26100] test/021962.mp4: NO FACES skipped
+  [5381/26100] test/021963.mp4: NO FACES skipped
+  [5400/26100] 1046s, ~0.19s/vid
+  [5450/26100] 1058s, ~0.19s/vid
+  [5479/26100] test/022061.mp4: NO FACES skipped
+  [5481/26100] test/022063.mp4: NO FACES skipped
+  [5500/26100] 1068s, ~0.19s/vid
+  [5550/26100] 1079s, ~0.19s/vid
+  [5551/26100] test/022133.mp4: NO FACES skipped
+  [5552/26100] test/022134.mp4: NO FACES skipped
+  [5553/26100] test/022135.mp4: NO FACES skipped
+  [5554/26100] test/022136.mp4: NO FACES skipped
+  [5559/26100] test/022141.mp4: NO FACES skipped
+  [5560/26100] test/022142.mp4: NO FACES skipped
+  [5561/26100] test/022143.mp4: NO FACES skipped
+  [5562/26100] test/022144.mp4: NO FACES skipped
+  [5563/26100] test/022145.mp4: NO FACES skipped
+  [5564/26100] test/022146.mp4: NO FACES skipped
+  [5565/26100] test/022147.mp4: NO FACES skipped
+  [5600/26100] 1089s, ~0.19s/vid
+  [5650/26100] 1102s, ~0.19s/vid
+  [5700/26100] 1114s, ~0.20s/vid
+  [5742/26100] test/022325.mp4: NO FACES skipped
+  [5743/26100] test/022326.mp4: NO FACES skipped
+  [5744/26100] test/022327.mp4: NO FACES skipped
+  [5750/26100] 1124s, ~0.20s/vid
+  [5800/26100] 1136s, ~0.20s/vid
+  [5850/26100] 1149s, ~0.20s/vid
+  [5900/26100] 1161s, ~0.20s/vid
+  [5947/26100] test/022530.mp4: NO FACES skipped
+  [5949/26100] test/022532.mp4: NO FACES skipped
+  [5950/26100] test/022533.mp4: NO FACES skipped
+  [5951/26100] test/022534.mp4: NO FACES skipped
+  [5952/26100] test/022535.mp4: NO FACES skipped
+  [5953/26100] test/022536.mp4: NO FACES skipped
+  [5982/26100] test/022565.mp4: NO FACES skipped
+  [5986/26100] test/022569.mp4: NO FACES skipped
+  [6000/26100] 1183s, ~0.20s/vid
+  [6050/26100] 1195s, ~0.20s/vid
+  [6078/26100] test/022663.mp4: NO FACES skipped
+  [6093/26100] test/022678.mp4: NO FACES skipped
+  [6094/26100] test/022679.mp4: NO FACES skipped
+  [6095/26100] test/022680.mp4: NO FACES skipped
+  [6100/26100] 1205s, ~0.20s/vid
+  [6105/26100] test/022690.mp4: NO FACES skipped
+  [6106/26100] test/022691.mp4: NO FACES skipped
+  [6120/26100] test/022705.mp4: NO FACES skipped
+  [6122/26100] test/022707.mp4: NO FACES skipped
+  [6150/26100] 1215s, ~0.20s/vid
+  [6200/26100] 1228s, ~0.20s/vid
+  [6250/26100] 1240s, ~0.20s/vid
+  [6300/26100] 1252s, ~0.20s/vid
+  [6350/26100] 1261s, ~0.20s/vid
+  [6365/26100] test/026513.mp4: NO FACES skipped
+  [6372/26100] test/026520.mp4: NO FACES skipped
+  [6373/26100] test/026521.mp4: NO FACES skipped
+  [6400/26100] 1271s, ~0.20s/vid
+  [6405/26100] test/026561.mp4: NO FACES skipped
+  [6406/26100] test/026562.mp4: NO FACES skipped
+  [6450/26100] 1281s, ~0.20s/vid
+  [6486/26100] test/026642.mp4: NO FACES skipped
+  [6487/26100] test/026643.mp4: NO FACES skipped
+  [6488/26100] test/026644.mp4: NO FACES skipped
+  [6500/26100] 1293s, ~0.20s/vid
+  [6550/26100] 1307s, ~0.20s/vid
+  [6565/26100] test/026721.mp4: NO FACES skipped
+  [6566/26100] test/026722.mp4: NO FACES skipped
+  [6567/26100] test/026723.mp4: NO FACES skipped
+  [6568/26100] test/026724.mp4: NO FACES skipped
+  [6569/26100] test/026725.mp4: NO FACES skipped
+  [6570/26100] test/026726.mp4: NO FACES skipped
+  [6571/26100] test/026727.mp4: NO FACES skipped
+  [6572/26100] test/026728.mp4: NO FACES skipped
+  [6573/26100] test/026729.mp4: NO FACES skipped
+  [6574/26100] test/026730.mp4: NO FACES skipped
+  [6575/26100] test/026731.mp4: NO FACES skipped
+  [6576/26100] test/026732.mp4: NO FACES skipped
+  [6577/26100] test/026733.mp4: NO FACES skipped
+  [6578/26100] test/026734.mp4: NO FACES skipped
+  [6579/26100] test/026735.mp4: NO FACES skipped
+  [6580/26100] test/026736.mp4: NO FACES skipped
+  [6581/26100] test/026737.mp4: NO FACES skipped
+  [6582/26100] test/026738.mp4: NO FACES skipped
+  [6583/26100] test/026739.mp4: NO FACES skipped
+  [6584/26100] test/026740.mp4: NO FACES skipped
+  [6585/26100] test/026741.mp4: NO FACES skipped
+  [6586/26100] test/026742.mp4: NO FACES skipped
+  [6587/26100] test/026743.mp4: NO FACES skipped
+  [6588/26100] test/026744.mp4: NO FACES skipped
+  [6589/26100] test/026745.mp4: NO FACES skipped
+  [6590/26100] test/026746.mp4: NO FACES skipped
+  [6591/26100] test/026747.mp4: NO FACES skipped
+  [6592/26100] test/026748.mp4: NO FACES skipped
+  [6594/26100] test/026750.mp4: NO FACES skipped
+  [6595/26100] test/026751.mp4: NO FACES skipped
+  [6596/26100] test/026752.mp4: NO FACES skipped
+  [6597/26100] test/026753.mp4: NO FACES skipped
+  [6598/26100] test/026754.mp4: NO FACES skipped
+  [6599/26100] test/026755.mp4: NO FACES skipped
+  [6600/26100] test/026756.mp4: NO FACES skipped
+  [6601/26100] test/026757.mp4: NO FACES skipped
+  [6650/26100] 1325s, ~0.20s/vid
+  [6700/26100] 1338s, ~0.20s/vid
+  [6750/26100] 1350s, ~0.20s/vid
+  [6781/26100] test/026939.mp4: NO FACES skipped
+  [6782/26100] test/026940.mp4: NO FACES skipped
+  [6796/26100] test/026955.mp4: NO FACES skipped
+  [6797/26100] test/026956.mp4: NO FACES skipped
+  [6798/26100] test/026957.mp4: NO FACES skipped
+  [6800/26100] 1361s, ~0.20s/vid
+  [6811/26100] test/026970.mp4: NO FACES skipped
+  [6812/26100] test/026971.mp4: NO FACES skipped
+  [6813/26100] test/026972.mp4: NO FACES skipped
+  [6850/26100] 1371s, ~0.20s/vid
+  [6900/26100] 1384s, ~0.20s/vid
+  [6950/26100] 1396s, ~0.20s/vid
+  [7000/26100] 1409s, ~0.20s/vid
+  [7050/26100] 1422s, ~0.20s/vid
+  [7087/26100] test/027259.mp4: NO FACES skipped
+  [7088/26100] test/027260.mp4: NO FACES skipped
+  [7089/26100] test/027261.mp4: NO FACES skipped
+  [7090/26100] test/027262.mp4: NO FACES skipped
+  [7091/26100] test/027263.mp4: NO FACES skipped
+  [7092/26100] test/027264.mp4: NO FACES skipped
+  [7100/26100] 1434s, ~0.20s/vid
+  [7120/26100] test/029272.mp4: NO FACES skipped
+  [7121/26100] test/029273.mp4: NO FACES skipped
+  [7122/26100] test/029274.mp4: NO FACES skipped
+  [7123/26100] test/029275.mp4: NO FACES skipped
+  [7150/26100] 1446s, ~0.20s/vid
+  [7200/26100] 1458s, ~0.20s/vid
+  [7250/26100] 1469s, ~0.20s/vid
+  [7300/26100] 1482s, ~0.20s/vid
+  [7350/26100] 1496s, ~0.20s/vid
+  [7387/26100] test/029681.mp4: NO FACES skipped
+  [7388/26100] test/029682.mp4: NO FACES skipped
+  [7400/26100] 1508s, ~0.20s/vid
+  [7411/26100] test/029705.mp4: NO FACES skipped
+  [7424/26100] test/029718.mp4: NO FACES skipped
+  [7425/26100] test/029719.mp4: NO FACES skipped
+  [7426/26100] test/029720.mp4: NO FACES skipped
+  [7427/26100] test/029721.mp4: NO FACES skipped
+  [7428/26100] test/029722.mp4: NO FACES skipped
+  [7429/26100] test/029723.mp4: NO FACES skipped
+  [7430/26100] test/029724.mp4: NO FACES skipped
+  [7450/26100] 1517s, ~0.20s/vid
+  [7500/26100] 1530s, ~0.20s/vid
+  [7550/26100] 1543s, ~0.20s/vid
+  [7565/26100] test/029859.mp4: NO FACES skipped
+  [7566/26100] test/029860.mp4: NO FACES skipped
+  [7567/26100] test/029861.mp4: NO FACES skipped
+  [7569/26100] test/029863.mp4: NO FACES skipped
+  [7571/26100] test/029865.mp4: NO FACES skipped
+  [7573/26100] test/029867.mp4: NO FACES skipped
+  [7574/26100] test/029868.mp4: NO FACES skipped
+  [7575/26100] test/029869.mp4: NO FACES skipped
+  [7594/26100] test/041188.mp4: NO FACES skipped
+  [7595/26100] test/041189.mp4: NO FACES skipped
+  [7600/26100] 1554s, ~0.20s/vid
+  [7650/26100] 1566s, ~0.20s/vid
+  [7700/26100] 1578s, ~0.20s/vid
+  [7726/26100] test/041322.mp4: NO FACES skipped
+  [7728/26100] test/041324.mp4: NO FACES skipped
+  [7729/26100] test/041325.mp4: NO FACES skipped
+  [7730/26100] test/041326.mp4: NO FACES skipped
+  [7735/26100] test/041331.mp4: NO FACES skipped
+  [7736/26100] test/041332.mp4: NO FACES skipped
+  [7737/26100] test/041333.mp4: NO FACES skipped
+  [7739/26100] test/041335.mp4: NO FACES skipped
+  [7740/26100] test/041336.mp4: NO FACES skipped
+  [7742/26100] test/041338.mp4: NO FACES skipped
+  [7743/26100] test/041339.mp4: NO FACES skipped
+  [7744/26100] test/041340.mp4: NO FACES skipped
+  [7745/26100] test/041341.mp4: NO FACES skipped
+  [7746/26100] test/041342.mp4: NO FACES skipped
+  [7747/26100] test/041343.mp4: NO FACES skipped
+  [7748/26100] test/041344.mp4: NO FACES skipped
+  [7749/26100] test/041345.mp4: NO FACES skipped
+  [7750/26100] test/041346.mp4: NO FACES skipped
+  [7751/26100] test/041347.mp4: NO FACES skipped
+  [7752/26100] test/041348.mp4: NO FACES skipped
+  [7753/26100] test/041349.mp4: NO FACES skipped
+  [7754/26100] test/041350.mp4: NO FACES skipped
+  [7755/26100] test/041351.mp4: NO FACES skipped
+  [7756/26100] test/041352.mp4: NO FACES skipped
+  [7764/26100] test/041360.mp4: NO FACES skipped
+  [7765/26100] test/041361.mp4: NO FACES skipped
+  [7766/26100] test/041362.mp4: NO FACES skipped
+  [7767/26100] test/041363.mp4: NO FACES skipped
+  [7800/26100] 1597s, ~0.20s/vid
+  [7803/26100] test/041399.mp4: NO FACES skipped
+  [7804/26100] test/041400.mp4: NO FACES skipped
+  [7805/26100] test/041401.mp4: NO FACES skipped
+  [7806/26100] test/041402.mp4: NO FACES skipped
+  [7811/26100] test/041407.mp4: NO FACES skipped
+  [7812/26100] test/041408.mp4: NO FACES skipped
+  [7813/26100] test/041409.mp4: NO FACES skipped
+  [7814/26100] test/041410.mp4: NO FACES skipped
+  [7850/26100] 1608s, ~0.20s/vid
+  [7860/26100] test/041456.mp4: NO FACES skipped
+  [7861/26100] test/041457.mp4: NO FACES skipped
+  [7862/26100] test/041458.mp4: NO FACES skipped
+  [7863/26100] test/041459.mp4: NO FACES skipped
+  [7864/26100] test/041460.mp4: NO FACES skipped
+  [7865/26100] test/041461.mp4: NO FACES skipped
+  [7866/26100] test/041462.mp4: NO FACES skipped
+  [7867/26100] test/041463.mp4: NO FACES skipped
+  [7868/26100] test/041464.mp4: NO FACES skipped
+  [7870/26100] test/041466.mp4: NO FACES skipped
+  [7873/26100] test/041469.mp4: NO FACES skipped
+  [7874/26100] test/041470.mp4: NO FACES skipped
+  [7875/26100] test/041471.mp4: NO FACES skipped
+  [7876/26100] test/041472.mp4: NO FACES skipped
+  [7877/26100] test/041473.mp4: NO FACES skipped
+  [7878/26100] test/041474.mp4: NO FACES skipped
+  [7879/26100] test/041475.mp4: NO FACES skipped
+  [7880/26100] test/041476.mp4: NO FACES skipped
+  [7881/26100] test/041477.mp4: NO FACES skipped
+  [7884/26100] test/041480.mp4: NO FACES skipped
+  [7900/26100] 1616s, ~0.20s/vid
+  [7944/26100] test/041540.mp4: NO FACES skipped
+  [7946/26100] test/041542.mp4: NO FACES skipped
+  [7948/26100] test/041544.mp4: NO FACES skipped
+  [7949/26100] test/041545.mp4: NO FACES skipped
+  [7950/26100] test/041546.mp4: NO FACES skipped
+  [7951/26100] test/041547.mp4: NO FACES skipped
+  [8000/26100] 1640s, ~0.20s/vid
+  [8050/26100] 1654s, ~0.21s/vid
+  [8100/26100] 1668s, ~0.21s/vid
+  [8150/26100] 1682s, ~0.21s/vid
+  [8200/26100] 1695s, ~0.21s/vid
+  [8250/26100] 1709s, ~0.21s/vid
+  [8300/26100] 1723s, ~0.21s/vid
+  [8350/26100] 1736s, ~0.21s/vid
+  [8400/26100] 1750s, ~0.21s/vid
+  [8450/26100] 1764s, ~0.21s/vid
+  [8500/26100] 1778s, ~0.21s/vid
+  [8550/26100] 1792s, ~0.21s/vid
+  [8600/26100] 1807s, ~0.21s/vid
+  [8650/26100] 1820s, ~0.21s/vid
+  [8670/26100] test/045682.mp4: NO FACES skipped
+  [8700/26100] 1830s, ~0.21s/vid
+  [8714/26100] test/045726.mp4: NO FACES skipped
+  [8715/26100] test/045727.mp4: NO FACES skipped
+  [8716/26100] test/045728.mp4: NO FACES skipped
+  [8717/26100] test/045729.mp4: NO FACES skipped
+  [8718/26100] test/045730.mp4: NO FACES skipped
+  [8750/26100] 1841s, ~0.21s/vid
+  [8787/26100] test/045800.mp4: NO FACES skipped
+  [8792/26100] test/045805.mp4: NO FACES skipped
+  [8800/26100] 1853s, ~0.21s/vid
+  [8850/26100] 1865s, ~0.21s/vid
+  [8900/26100] 1878s, ~0.21s/vid
+  [8950/26100] 1892s, ~0.21s/vid
+  [9000/26100] 1906s, ~0.21s/vid
+  [9050/26100] 1919s, ~0.21s/vid
+  [9060/26100] test/046076.mp4: NO FACES skipped
+  [9061/26100] test/046077.mp4: NO FACES skipped
+  [9062/26100] test/046078.mp4: NO FACES skipped
+  [9063/26100] test/046079.mp4: NO FACES skipped
+  [9064/26100] test/046080.mp4: NO FACES skipped
+  [9065/26100] test/046081.mp4: NO FACES skipped
+  [9066/26100] test/046082.mp4: NO FACES skipped
+  [9067/26100] test/046083.mp4: NO FACES skipped
+  [9068/26100] test/046084.mp4: NO FACES skipped
+  [9069/26100] test/046085.mp4: NO FACES skipped
+  [9070/26100] test/046086.mp4: NO FACES skipped
+  [9071/26100] test/046087.mp4: NO FACES skipped
+  [9072/26100] test/046088.mp4: NO FACES skipped
+  [9073/26100] test/046089.mp4: NO FACES skipped
+  [9074/26100] test/046090.mp4: NO FACES skipped
+  [9075/26100] test/046091.mp4: NO FACES skipped
+  [9100/26100] 1929s, ~0.21s/vid
+  [9150/26100] 1943s, ~0.21s/vid
+  [9152/26100] test/046168.mp4: NO FACES skipped
+  [9153/26100] test/046169.mp4: NO FACES skipped
+  [9154/26100] test/046170.mp4: NO FACES skipped
+  [9200/26100] 1956s, ~0.21s/vid
+  [9250/26100] 1968s, ~0.21s/vid
+  [9300/26100] 1982s, ~0.21s/vid
+  [9350/26100] 1995s, ~0.21s/vid
+  [9400/26100] 2010s, ~0.21s/vid
+  [9450/26100] 2024s, ~0.21s/vid
+  [9500/26100] 2037s, ~0.21s/vid
+  [9550/26100] 2052s, ~0.21s/vid
+  [9600/26100] 2065s, ~0.22s/vid
+  [9626/26100] test/046644.mp4: NO FACES skipped
+  [9629/26100] test/046647.mp4: NO FACES skipped
+  [9646/26100] test/046664.mp4: NO FACES skipped
+  [9650/26100] 2077s, ~0.22s/vid
+  [9669/26100] test/046687.mp4: NO FACES skipped
+  [9670/26100] test/046688.mp4: NO FACES skipped
+  [9671/26100] test/046689.mp4: NO FACES skipped
+  [9672/26100] test/046690.mp4: NO FACES skipped
+  [9673/26100] test/046691.mp4: NO FACES skipped
+  [9675/26100] test/046693.mp4: NO FACES skipped
+  [9676/26100] test/046694.mp4: NO FACES skipped
+  [9677/26100] test/046695.mp4: NO FACES skipped
+  [9700/26100] 2087s, ~0.22s/vid
+  [9750/26100] 2101s, ~0.22s/vid
+  [9800/26100] 2116s, ~0.22s/vid
+  [9850/26100] 2130s, ~0.22s/vid
+  [9900/26100] 2145s, ~0.22s/vid
+  [9950/26100] 2160s, ~0.22s/vid
+  [10000/26100] 2175s, ~0.22s/vid
+  [10050/26100] test/047068.mp4: NO FACES skipped
+  [10055/26100] test/047073.mp4: NO FACES skipped
+  [10075/26100] test/047093.mp4: NO FACES skipped
+  [10076/26100] test/047094.mp4: NO FACES skipped
+  [10077/26100] test/047095.mp4: NO FACES skipped
+  [10100/26100] 2199s, ~0.22s/vid
+  [10150/26100] 2213s, ~0.22s/vid
+  [10200/26100] 2226s, ~0.22s/vid
+  [10250/26100] 2239s, ~0.22s/vid
+  [10296/26100] test/048180.mp4: NO FACES skipped
+  [10297/26100] test/048181.mp4: NO FACES skipped
+  [10298/26100] test/048183.mp4: NO FACES skipped
+  [10299/26100] test/048184.mp4: NO FACES skipped
+  [10300/26100] 2252s, ~0.22s/vid
+  [10350/26100] 2265s, ~0.22s/vid
+  [10400/26100] 2278s, ~0.22s/vid
+  [10450/26100] 2292s, ~0.22s/vid
+  [10500/26100] 2307s, ~0.22s/vid
+  [10550/26100] 2321s, ~0.22s/vid
+  [10600/26100] 2335s, ~0.22s/vid
+  [10650/26100] 2350s, ~0.22s/vid
+  [10700/26100] 2363s, ~0.22s/vid
+  [10715/26100] test/063570.mp4: NO FACES skipped
+  [10718/26100] test/063573.mp4: NO FACES skipped
+  [10750/26100] 2377s, ~0.22s/vid
+  [10800/26100] 2390s, ~0.22s/vid
+  [10850/26100] 2404s, ~0.22s/vid
+  [10900/26100] 2419s, ~0.22s/vid
+  [10948/26100] test/063805.mp4: NO FACES skipped
+  [10950/26100] 2433s, ~0.22s/vid
+  [10965/26100] test/063822.mp4: NO FACES skipped
+  [10966/26100] test/063823.mp4: NO FACES skipped
+  [10967/26100] test/063824.mp4: NO FACES skipped
+  [11000/26100] 2444s, ~0.22s/vid
+  [11045/26100] test/063902.mp4: NO FACES skipped
+  [11050/26100] 2457s, ~0.22s/vid
+  [11073/26100] test/063930.mp4: NO FACES skipped
+  [11100/26100] 2468s, ~0.22s/vid
+  [11150/26100] 2482s, ~0.22s/vid
+  [11200/26100] 2497s, ~0.22s/vid
+  [11250/26100] 2511s, ~0.22s/vid
+  [11300/26100] 2526s, ~0.22s/vid
+  [11350/26100] 2541s, ~0.22s/vid
+  [11400/26100] 2556s, ~0.22s/vid
+  [11432/26100] test/075810.mp4: NO FACES skipped
+  [11441/26100] test/075819.mp4: NO FACES skipped
+  [11442/26100] test/075820.mp4: NO FACES skipped
+  [11443/26100] test/075821.mp4: NO FACES skipped
+  [11450/26100] 2569s, ~0.22s/vid
+  [11500/26100] 2583s, ~0.22s/vid
+  [11550/26100] 2598s, ~0.22s/vid
+  [11600/26100] 2613s, ~0.23s/vid
+  [11650/26100] 2629s, ~0.23s/vid
+  [11700/26100] 2644s, ~0.23s/vid
+  [11750/26100] 2659s, ~0.23s/vid
+  [11775/26100] test/076157.mp4: NO FACES skipped
+  [11776/26100] test/076158.mp4: NO FACES skipped
+  [11777/26100] test/076159.mp4: NO FACES skipped
+  [11778/26100] test/076160.mp4: NO FACES skipped
+  [11784/26100] test/076166.mp4: NO FACES skipped
+  [11785/26100] test/076167.mp4: NO FACES skipped
+  [11786/26100] test/076168.mp4: NO FACES skipped
+  [11787/26100] test/076169.mp4: NO FACES skipped
+  [11792/26100] test/076174.mp4: NO FACES skipped
+  [11793/26100] test/076175.mp4: NO FACES skipped
+  [11794/26100] test/076176.mp4: NO FACES skipped
+  [11795/26100] test/076177.mp4: NO FACES skipped
+  [11796/26100] test/076178.mp4: NO FACES skipped
+  [11797/26100] test/076179.mp4: NO FACES skipped
+  [11798/26100] test/076180.mp4: NO FACES skipped
+  [11800/26100] 2668s, ~0.23s/vid
+  [11850/26100] 2684s, ~0.23s/vid
+  [11900/26100] 2699s, ~0.23s/vid
+  [11950/26100] 2714s, ~0.23s/vid
+  [12000/26100] 2728s, ~0.23s/vid
+  [12050/26100] 2744s, ~0.23s/vid
+  [12100/26100] 2758s, ~0.23s/vid
+  [12150/26100] 2772s, ~0.23s/vid
+  [12200/26100] 2786s, ~0.23s/vid
+  [12250/26100] 2801s, ~0.23s/vid
+  [12300/26100] 2817s, ~0.23s/vid
+  [12337/26100] test/076736.mp4: NO FACES skipped
+  [12339/26100] test/076738.mp4: NO FACES skipped
+  [12347/26100] test/076746.mp4: NO FACES skipped
+  [12348/26100] test/076747.mp4: NO FACES skipped
+  [12350/26100] 2830s, ~0.23s/vid
+  [12355/26100] test/076754.mp4: NO FACES skipped
+  [12385/26100] test/076784.mp4: NO FACES skipped
+  [12386/26100] test/076785.mp4: NO FACES skipped
+  [12387/26100] test/076786.mp4: NO FACES skipped
+  [12388/26100] test/076787.mp4: NO FACES skipped
+  [12400/26100] 2842s, ~0.23s/vid
+  [12450/26100] 2858s, ~0.23s/vid
+  [12462/26100] test/076866.mp4: NO FACES skipped
+  [12500/26100] 2872s, ~0.23s/vid
+  [12550/26100] 2888s, ~0.23s/vid
+  [12600/26100] 2904s, ~0.23s/vid
+  [12650/26100] 2919s, ~0.23s/vid
+  [12700/26100] 2935s, ~0.23s/vid
+  [12742/26100] test/077154.mp4: NO FACES skipped
+  [12743/26100] test/077155.mp4: NO FACES skipped
+  [12744/26100] test/077156.mp4: NO FACES skipped
+  [12745/26100] test/077157.mp4: NO FACES skipped
+  [12750/26100] 2949s, ~0.23s/vid
+  [12798/26100] test/077210.mp4: NO FACES skipped
+  [12800/26100] 2963s, ~0.23s/vid
+  [12850/26100] 2978s, ~0.23s/vid
+  [12870/26100] test/077282.mp4: NO FACES skipped
+  [12871/26100] test/077283.mp4: NO FACES skipped
+  [12872/26100] test/077284.mp4: NO FACES skipped
+  [12873/26100] test/077285.mp4: NO FACES skipped
+  [12900/26100] 2993s, ~0.23s/vid
+  [12950/26100] 3008s, ~0.23s/vid
+  [12968/26100] test/077382.mp4: NO FACES skipped
+  [12970/26100] test/077384.mp4: NO FACES skipped
+  [13000/26100] 3022s, ~0.23s/vid
+  [13050/26100] 3035s, ~0.23s/vid
+  [13100/26100] 3051s, ~0.23s/vid
+  [13150/26100] 3066s, ~0.23s/vid
+  [13200/26100] 3081s, ~0.23s/vid
+  [13250/26100] 3095s, ~0.23s/vid
+  [13274/26100] test/077692.mp4: NO FACES skipped
+  [13300/26100] 3110s, ~0.23s/vid
+  [13350/26100] 3125s, ~0.23s/vid
+  [13390/26100] test/077809.mp4: NO FACES skipped
+  [13391/26100] test/077810.mp4: NO FACES skipped
+  [13392/26100] test/077811.mp4: NO FACES skipped
+  [13400/26100] 3138s, ~0.23s/vid
+  [13450/26100] test/077869.mp4: NO FACES skipped
+  [13500/26100] 3165s, ~0.23s/vid
+  [13550/26100] 3180s, ~0.23s/vid
+  [13600/26100] 3195s, ~0.23s/vid
+  [13650/26100] 3209s, ~0.24s/vid
+  [13700/26100] 3224s, ~0.24s/vid
+  [13750/26100] 3239s, ~0.24s/vid
+  [13800/26100] 3253s, ~0.24s/vid
+  [13850/26100] 3269s, ~0.24s/vid
+  [13900/26100] 3283s, ~0.24s/vid
+  [13909/26100] test/078328.mp4: NO FACES skipped
+  [13910/26100] test/078329.mp4: NO FACES skipped
+  [13911/26100] test/078330.mp4: NO FACES skipped
+  [13950/26100] 3297s, ~0.24s/vid
+  [14000/26100] 3312s, ~0.24s/vid
+  [14050/26100] 3327s, ~0.24s/vid
+  [14100/26100] 3342s, ~0.24s/vid
+  [14150/26100] 3357s, ~0.24s/vid
+  [14200/26100] 3372s, ~0.24s/vid
+  [14224/26100] test/078644.mp4: NO FACES skipped
+  [14250/26100] 3385s, ~0.24s/vid
+  [14300/26100] 3401s, ~0.24s/vid
+  [14350/26100] 3417s, ~0.24s/vid
+  [14400/26100] 3434s, ~0.24s/vid
+  [14442/26100] test/090243.mp4: NO FACES skipped
+  [14450/26100] 3449s, ~0.24s/vid
+  [14500/26100] 3465s, ~0.24s/vid
+  [14550/26100] 3482s, ~0.24s/vid
+  [14600/26100] 3498s, ~0.24s/vid
+  [14650/26100] 3515s, ~0.24s/vid
+  [14700/26100] 3531s, ~0.24s/vid
+  [14750/26100] 3548s, ~0.24s/vid
+  [14771/26100] test/090581.mp4: NO FACES skipped
+  [14772/26100] test/090582.mp4: NO FACES skipped
+  [14773/26100] test/090583.mp4: NO FACES skipped
+  [14774/26100] test/090584.mp4: NO FACES skipped
+  [14775/26100] test/090585.mp4: NO FACES skipped
+  [14776/26100] test/090586.mp4: NO FACES skipped
+  [14777/26100] test/090587.mp4: NO FACES skipped
+  [14800/26100] 3563s, ~0.24s/vid
+  [14850/26100] 3579s, ~0.24s/vid
+  [14859/26100] test/090669.mp4: NO FACES skipped
+  [14860/26100] test/090670.mp4: NO FACES skipped
+  [14861/26100] test/090671.mp4: NO FACES skipped
+  [14862/26100] test/090672.mp4: NO FACES skipped
+  [14900/26100] 3594s, ~0.24s/vid
+  [14950/26100] 3611s, ~0.24s/vid
+  [15000/26100] 3628s, ~0.24s/vid
+  [15050/26100] 3644s, ~0.24s/vid
+  [15100/26100] 3661s, ~0.24s/vid
+  [15113/26100] test/090927.mp4: NO FACES skipped
+  [15116/26100] test/090930.mp4: NO FACES skipped
+  [15150/26100] 3677s, ~0.24s/vid
+  [15200/26100] 3694s, ~0.24s/vid
+  [15250/26100] 3710s, ~0.24s/vid
+  [15300/26100] 3727s, ~0.24s/vid
+  [15350/26100] 3743s, ~0.24s/vid
+  [15400/26100] 3760s, ~0.24s/vid
+  [15450/26100] 3777s, ~0.24s/vid
+  [15500/26100] 3793s, ~0.24s/vid
+  [15550/26100] 3810s, ~0.24s/vid
+  [15600/26100] 3826s, ~0.25s/vid
+  [15650/26100] 3843s, ~0.25s/vid
+  [15656/26100] test/091479.mp4: NO FACES skipped
+  [15657/26100] test/091480.mp4: NO FACES skipped
+  [15700/26100] 3858s, ~0.25s/vid
+  [15750/26100] 3874s, ~0.25s/vid
+  [15800/26100] 3890s, ~0.25s/vid
+  [15850/26100] 3907s, ~0.25s/vid
+  [15900/26100] 3925s, ~0.25s/vid
+  [15950/26100] 3941s, ~0.25s/vid
+  [16000/26100] 3958s, ~0.25s/vid
+  [16035/26100] test/091862.mp4: NO FACES skipped
+  [16050/26100] 3975s, ~0.25s/vid
+  [16100/26100] 3992s, ~0.25s/vid
+  [16150/26100] 4010s, ~0.25s/vid
+  [16200/26100] 4027s, ~0.25s/vid
+  [16231/26100] test/094648.mp4: NO FACES skipped
+  [16232/26100] test/094649.mp4: NO FACES skipped
+  [16233/26100] test/094650.mp4: NO FACES skipped
+  [16234/26100] test/094651.mp4: NO FACES skipped
+  [16250/26100] 4043s, ~0.25s/vid
+  [16300/26100] 4059s, ~0.25s/vid
+  [16350/26100] 4075s, ~0.25s/vid
+  [16373/26100] test/094792.mp4: NO FACES skipped
+  [16374/26100] test/094793.mp4: NO FACES skipped
+  [16375/26100] test/094794.mp4: NO FACES skipped
+  [16376/26100] test/094795.mp4: NO FACES skipped
+  [16400/26100] 4089s, ~0.25s/vid
+  [16439/26100] test/094858.mp4: NO FACES skipped
+  [16450/26100] 4104s, ~0.25s/vid
+  [16500/26100] 4119s, ~0.25s/vid
+  [16503/26100] test/094922.mp4: NO FACES skipped
+  [16505/26100] test/094924.mp4: NO FACES skipped
+  [16506/26100] test/094925.mp4: NO FACES skipped
+  [16550/26100] 4133s, ~0.25s/vid
+  [16561/26100] test/094980.mp4: NO FACES skipped
+  [16600/26100] 4147s, ~0.25s/vid
+  [16650/26100] 4161s, ~0.25s/vid
+  [16677/26100] test/095101.mp4: NO FACES skipped
+  [16686/26100] test/095110.mp4: NO FACES skipped
+  [16689/26100] test/095113.mp4: NO FACES skipped
+  [16694/26100] test/095118.mp4: NO FACES skipped
+  [16700/26100] 4175s, ~0.25s/vid
+  [16750/26100] 4189s, ~0.25s/vid
+  [16761/26100] test/095185.mp4: NO FACES skipped
+  [16764/26100] test/095188.mp4: NO FACES skipped
+  [16800/26100] 4203s, ~0.25s/vid
+  [16850/26100] 4218s, ~0.25s/vid
+  [16900/26100] 4232s, ~0.25s/vid
+  [16926/26100] test/095350.mp4: NO FACES skipped
+  [16927/26100] test/095351.mp4: NO FACES skipped
+  [16928/26100] test/095352.mp4: NO FACES skipped
+  [16929/26100] test/095353.mp4: NO FACES skipped
+  [16930/26100] test/095354.mp4: NO FACES skipped
+  [16931/26100] test/095355.mp4: NO FACES skipped
+  [16932/26100] test/095356.mp4: NO FACES skipped
+  [16949/26100] test/095373.mp4: NO FACES skipped
+  [16950/26100] test/095374.mp4: NO FACES skipped
+  [16951/26100] test/095375.mp4: NO FACES skipped
+  [16953/26100] test/095377.mp4: NO FACES skipped
+  [16954/26100] test/095378.mp4: NO FACES skipped
+  [17000/26100] 4258s, ~0.25s/vid
+  [17047/26100] test/095477.mp4: NO FACES skipped
+  [17048/26100] test/095478.mp4: NO FACES skipped
+  [17049/26100] test/095479.mp4: NO FACES skipped
+  [17050/26100] test/095480.mp4: NO FACES skipped
+  [17066/26100] test/095500.mp4: NO FACES skipped
+  [17068/26100] test/095502.mp4: NO FACES skipped
+  [17069/26100] test/095503.mp4: NO FACES skipped
+  [17086/26100] test/095520.mp4: NO FACES skipped
+  [17087/26100] test/095521.mp4: NO FACES skipped
+  [17098/26100] test/095532.mp4: NO FACES skipped
+  [17100/26100] 4284s, ~0.25s/vid
+  [17107/26100] test/095541.mp4: NO FACES skipped
+  [17109/26100] test/095543.mp4: NO FACES skipped
+  [17150/26100] 4301s, ~0.25s/vid
+  [17200/26100] 4318s, ~0.25s/vid
+  [17250/26100] test/095686.mp4: NO FACES skipped
+  [17251/26100] test/095687.mp4: NO FACES skipped
+  [17252/26100] test/095688.mp4: NO FACES skipped
+  [17253/26100] test/095689.mp4: NO FACES skipped
+  [17271/26100] test/095707.mp4: NO FACES skipped
+  [17272/26100] test/095708.mp4: NO FACES skipped
+  [17273/26100] test/095709.mp4: NO FACES skipped
+  [17274/26100] test/095710.mp4: NO FACES skipped
+  [17295/26100] test/095731.mp4: NO FACES skipped
+  [17296/26100] test/095732.mp4: NO FACES skipped
+  [17297/26100] test/095733.mp4: NO FACES skipped
+  [17298/26100] test/095734.mp4: NO FACES skipped
+  [17300/26100] 4347s, ~0.25s/vid
+  [17314/26100] test/095750.mp4: NO FACES skipped
+  [17315/26100] test/095751.mp4: NO FACES skipped
+  [17316/26100] test/095752.mp4: NO FACES skipped
+  [17317/26100] test/095753.mp4: NO FACES skipped
+  [17318/26100] test/095754.mp4: NO FACES skipped
+  [17319/26100] test/095755.mp4: NO FACES skipped
+  [17320/26100] test/095756.mp4: NO FACES skipped
+  [17321/26100] test/095757.mp4: NO FACES skipped
+  [17326/26100] test/095762.mp4: NO FACES skipped
+  [17350/26100] 4361s, ~0.25s/vid
+  [17400/26100] 4378s, ~0.25s/vid
+  [17450/26100] 4396s, ~0.25s/vid
+  [17500/26100] 4413s, ~0.25s/vid
+  [17550/26100] 4431s, ~0.25s/vid
+  [17600/26100] 4448s, ~0.25s/vid
+  [17650/26100] 4465s, ~0.25s/vid
+  [17700/26100] 4482s, ~0.25s/vid
+  [17735/26100] test/096173.mp4: NO FACES skipped
+  [17737/26100] test/096175.mp4: NO FACES skipped
+  [17738/26100] test/096176.mp4: NO FACES skipped
+  [17739/26100] test/096177.mp4: NO FACES skipped
+  [17750/26100] 4498s, ~0.25s/vid
+  [17759/26100] test/096197.mp4: NO FACES skipped
+  [17760/26100] test/096198.mp4: NO FACES skipped
+  [17762/26100] test/096200.mp4: NO FACES skipped
+  [17763/26100] test/096201.mp4: NO FACES skipped
+  [17765/26100] test/096203.mp4: NO FACES skipped
+  [17800/26100] 4514s, ~0.25s/vid
+  [17810/26100] test/096249.mp4: NO FACES skipped
+  [17850/26100] 4531s, ~0.25s/vid
+  [17900/26100] 4549s, ~0.25s/vid
+  [17950/26100] 4567s, ~0.25s/vid
+  [18000/26100] 4585s, ~0.25s/vid
+  [18050/26100] 4603s, ~0.26s/vid
+  [18100/26100] 4620s, ~0.26s/vid
+  [18150/26100] 4638s, ~0.26s/vid
+  [18200/26100] 4655s, ~0.26s/vid
+  [18250/26100] 4673s, ~0.26s/vid
+  [18300/26100] 4691s, ~0.26s/vid
+  [18350/26100] 4709s, ~0.26s/vid
+  [18400/26100] 4728s, ~0.26s/vid
+  [18450/26100] 4745s, ~0.26s/vid
+  [18500/26100] 4764s, ~0.26s/vid
+  [18550/26100] 4782s, ~0.26s/vid
+  [18600/26100] 4799s, ~0.26s/vid
+  [18650/26100] 4817s, ~0.26s/vid
+  [18700/26100] 4832s, ~0.26s/vid
+  [18750/26100] 4851s, ~0.26s/vid
+  [18800/26100] 4869s, ~0.26s/vid
+  [18850/26100] 4887s, ~0.26s/vid
+  [18900/26100] 4906s, ~0.26s/vid
+  [18950/26100] 4923s, ~0.26s/vid
+  [19000/26100] 4941s, ~0.26s/vid
+  [19050/26100] 4959s, ~0.26s/vid
+  [19100/26100] 4978s, ~0.26s/vid
+  [19150/26100] 4996s, ~0.26s/vid
+  [19200/26100] 5013s, ~0.26s/vid
+  [19250/26100] 5031s, ~0.26s/vid
+  [19300/26100] 5049s, ~0.26s/vid
+  [19350/26100] 5068s, ~0.26s/vid
+  [19400/26100] 5086s, ~0.26s/vid
+  [19450/26100] 5105s, ~0.26s/vid
+  [19500/26100] 5124s, ~0.26s/vid
+  [19550/26100] 5142s, ~0.26s/vid
+  [19600/26100] 5159s, ~0.26s/vid
+  [19650/26100] 5177s, ~0.26s/vid
+  [19663/26100] test/114067.mp4: NO FACES skipped
+  [19664/26100] test/114068.mp4: NO FACES skipped
+  [19665/26100] test/114069.mp4: NO FACES skipped
+  [19666/26100] test/114070.mp4: NO FACES skipped
+  [19700/26100] 5193s, ~0.26s/vid
+  [19750/26100] 5211s, ~0.26s/vid
+  [19800/26100] 5229s, ~0.26s/vid
+  [19850/26100] 5246s, ~0.26s/vid
+  [19900/26100] 5264s, ~0.26s/vid
+  [19904/26100] test/114311.mp4: NO FACES skipped
+  [19905/26100] test/114312.mp4: NO FACES skipped
+  [19906/26100] test/114313.mp4: NO FACES skipped
+  [19907/26100] test/114314.mp4: NO FACES skipped
+  [19950/26100] 5281s, ~0.26s/vid
+  [20000/26100] 5300s, ~0.26s/vid
+  [20050/26100] 5318s, ~0.27s/vid
+  [20100/26100] 5335s, ~0.27s/vid
+  [20150/26100] 5353s, ~0.27s/vid
+  [20200/26100] 5370s, ~0.27s/vid
+  [20250/26100] 5388s, ~0.27s/vid
+  [20300/26100] 5405s, ~0.27s/vid
+  [20350/26100] 5423s, ~0.27s/vid
+  [20400/26100] 5441s, ~0.27s/vid
+  [20450/26100] 5458s, ~0.27s/vid
+  [20500/26100] 5475s, ~0.27s/vid
+  [20550/26100] 5494s, ~0.27s/vid
+  [20600/26100] 5512s, ~0.27s/vid
+  [20650/26100] 5531s, ~0.27s/vid
+  [20700/26100] 5548s, ~0.27s/vid
+  [20750/26100] 5566s, ~0.27s/vid
+  [20800/26100] 5582s, ~0.27s/vid
+  [20850/26100] 5601s, ~0.27s/vid
+  [20900/26100] 5618s, ~0.27s/vid
+  [20950/26100] 5637s, ~0.27s/vid
+  [21000/26100] 5655s, ~0.27s/vid
+  [21050/26100] 5673s, ~0.27s/vid
+  [21100/26100] 5690s, ~0.27s/vid
+  [21145/26100] test/125748.mp4: NO FACES skipped
+  [21146/26100] test/125749.mp4: NO FACES skipped
+  [21147/26100] test/125750.mp4: NO FACES skipped
+  [21148/26100] test/125751.mp4: NO FACES skipped
+  [21150/26100] 5706s, ~0.27s/vid
+  [21185/26100] test/125788.mp4: NO FACES skipped
+  [21186/26100] test/125789.mp4: NO FACES skipped
+  [21187/26100] test/125790.mp4: NO FACES skipped
+  [21188/26100] test/125791.mp4: NO FACES skipped
+  [21189/26100] test/125792.mp4: NO FACES skipped
+  [21190/26100] test/125793.mp4: NO FACES skipped
+  [21191/26100] test/125794.mp4: NO FACES skipped
+  [21194/26100] test/125797.mp4: NO FACES skipped
+  [21200/26100] 5722s, ~0.27s/vid
+  [21250/26100] 5740s, ~0.27s/vid
+  [21281/26100] test/125889.mp4: NO FACES skipped
+  [21300/26100] 5758s, ~0.27s/vid
+  [21327/26100] test/125935.mp4: NO FACES skipped
+  [21337/26100] test/125945.mp4: NO FACES skipped
+  [21338/26100] test/125946.mp4: NO FACES skipped
+  [21343/26100] test/125951.mp4: NO FACES skipped
+  [21350/26100] 5774s, ~0.27s/vid
+  [21400/26100] 5792s, ~0.27s/vid
+  [21431/26100] test/126041.mp4: NO FACES skipped
+  [21450/26100] 5811s, ~0.27s/vid
+  [21482/26100] test/126092.mp4: NO FACES skipped
+  [21500/26100] 5828s, ~0.27s/vid
+  [21550/26100] 5847s, ~0.27s/vid
+  [21600/26100] 5866s, ~0.27s/vid
+  [21650/26100] 5884s, ~0.27s/vid
+  [21700/26100] 5903s, ~0.27s/vid
+  [21750/26100] 5921s, ~0.27s/vid
+  [21800/26100] 5939s, ~0.27s/vid
+  [21850/26100] 5957s, ~0.27s/vid
+  [21900/26100] 5975s, ~0.27s/vid
+  [21950/26100] 5994s, ~0.27s/vid
+  [22000/26100] 6012s, ~0.27s/vid
+  [22050/26100] 6030s, ~0.27s/vid
+  [22100/26100] 6048s, ~0.27s/vid
+  [22150/26100] 6067s, ~0.27s/vid
+  [22200/26100] 6086s, ~0.27s/vid
+  [22250/26100] 6104s, ~0.27s/vid
+  [22266/26100] test/126884.mp4: NO FACES skipped
+  [22267/26100] test/126885.mp4: NO FACES skipped
+  [22268/26100] test/126886.mp4: NO FACES skipped
+  [22300/26100] 6122s, ~0.27s/vid
+  [22314/26100] test/126932.mp4: NO FACES skipped
+  [22316/26100] test/126934.mp4: NO FACES skipped
+  [22350/26100] 6139s, ~0.27s/vid
+  [22400/26100] 6158s, ~0.27s/vid
+  [22450/26100] 6177s, ~0.28s/vid
+  [22500/26100] 6196s, ~0.28s/vid
+  [22550/26100] 6215s, ~0.28s/vid
+  [22600/26100] 6234s, ~0.28s/vid
+  [22650/26100] 6252s, ~0.28s/vid
+  [22700/26100] 6272s, ~0.28s/vid
+  [22750/26100] 6292s, ~0.28s/vid
+  [22800/26100] 6312s, ~0.28s/vid
+  [22850/26100] 6332s, ~0.28s/vid
+  [22900/26100] 6351s, ~0.28s/vid
+  [22950/26100] 6370s, ~0.28s/vid
+  [23000/26100] 6390s, ~0.28s/vid
+  [23050/26100] 6410s, ~0.28s/vid
+  [23100/26100] 6429s, ~0.28s/vid
+  [23150/26100] 6449s, ~0.28s/vid
+  [23200/26100] 6466s, ~0.28s/vid
+  [23250/26100] 6483s, ~0.28s/vid
+  [23300/26100] 6504s, ~0.28s/vid
+  [23350/26100] 6524s, ~0.28s/vid
+  [23400/26100] 6544s, ~0.28s/vid
+  [23450/26100] 6564s, ~0.28s/vid
+  [23500/26100] 6583s, ~0.28s/vid
+  [23509/26100] test/130689.mp4: NO FACES skipped
+  [23510/26100] test/130690.mp4: NO FACES skipped
+  [23511/26100] test/130691.mp4: NO FACES skipped
+  [23512/26100] test/130692.mp4: NO FACES skipped
+  [23550/26100] 6599s, ~0.28s/vid
+  [23600/26100] 6619s, ~0.28s/vid
+  [23650/26100] 6640s, ~0.28s/vid
+  [23684/26100] test/130864.mp4: NO FACES skipped
+  [23686/26100] test/130866.mp4: NO FACES skipped
+  [23700/26100] 6658s, ~0.28s/vid
+  [23750/26100] 6677s, ~0.28s/vid
+  [23800/26100] 6695s, ~0.28s/vid
+  [23850/26100] 6714s, ~0.28s/vid
+  [23898/26100] test/131081.mp4: NO FACES skipped
+  [23899/26100] test/131082.mp4: NO FACES skipped
+  [23900/26100] test/131083.mp4: NO FACES skipped
+  [23901/26100] test/131084.mp4: NO FACES skipped
+  [23902/26100] test/131085.mp4: NO FACES skipped
+  [23950/26100] test/131133.mp4: NO FACES skipped
+  [23951/26100] test/131134.mp4: NO FACES skipped
+  [23952/26100] test/131135.mp4: NO FACES skipped
+  [23953/26100] test/131136.mp4: NO FACES skipped
+  [23965/26100] test/131148.mp4: NO FACES skipped
+  [23972/26100] test/131155.mp4: NO FACES skipped
+  [23973/26100] test/131156.mp4: NO FACES skipped
+  [23974/26100] test/131157.mp4: NO FACES skipped
+  [23975/26100] test/131158.mp4: NO FACES skipped
+  [23976/26100] test/131159.mp4: NO FACES skipped
+  [23977/26100] test/131160.mp4: NO FACES skipped
+  [23978/26100] test/131161.mp4: NO FACES skipped
+  [23980/26100] test/131163.mp4: NO FACES skipped
+  [23981/26100] test/131164.mp4: NO FACES skipped
+  [23982/26100] test/131165.mp4: NO FACES skipped
+  [23983/26100] test/131166.mp4: NO FACES skipped
+  [23984/26100] test/131167.mp4: NO FACES skipped
+  [23985/26100] test/131168.mp4: NO FACES skipped
+  [23986/26100] test/131169.mp4: NO FACES skipped
+  [24000/26100] 6762s, ~0.28s/vid
+  [24018/26100] test/131201.mp4: NO FACES skipped
+  [24050/26100] 6782s, ~0.28s/vid
+  [24054/26100] test/131238.mp4: NO FACES skipped
+  [24057/26100] test/131241.mp4: NO FACES skipped
+  [24060/26100] test/131244.mp4: NO FACES skipped
+  [24100/26100] 6799s, ~0.28s/vid
+  [24150/26100] 6818s, ~0.28s/vid
+  [24200/26100] 6838s, ~0.28s/vid
+  [24250/26100] 6857s, ~0.28s/vid
+  [24300/26100] 6878s, ~0.28s/vid
+  [24350/26100] 6897s, ~0.28s/vid
+  [24400/26100] 6917s, ~0.28s/vid
+  [24450/26100] 6937s, ~0.28s/vid
+  [24500/26100] 6957s, ~0.28s/vid
+  [24550/26100] 6977s, ~0.28s/vid
+  [24600/26100] 6997s, ~0.28s/vid
+  [24650/26100] 7018s, ~0.28s/vid
+  [24700/26100] 7037s, ~0.28s/vid
+  [24750/26100] 7056s, ~0.29s/vid
+  [24800/26100] 7076s, ~0.29s/vid
+  [24834/26100] test/133919.mp4: NO FACES skipped
+  [24835/26100] test/133920.mp4: NO FACES skipped
+  [24836/26100] test/133921.mp4: NO FACES skipped
+  [24837/26100] test/133922.mp4: NO FACES skipped
+  [24838/26100] test/133923.mp4: NO FACES skipped
+  [24839/26100] test/133924.mp4: NO FACES skipped
+  [24840/26100] test/133925.mp4: NO FACES skipped
+  [24841/26100] test/133926.mp4: NO FACES skipped
+  [24842/26100] test/133927.mp4: NO FACES skipped
+  [24843/26100] test/133928.mp4: NO FACES skipped
+  [24844/26100] test/133929.mp4: NO FACES skipped
+  [24845/26100] test/133930.mp4: NO FACES skipped
+  [24846/26100] test/133931.mp4: NO FACES skipped
+  [24848/26100] test/133933.mp4: NO FACES skipped
+  [24849/26100] test/133934.mp4: NO FACES skipped
+  [24850/26100] 7092s, ~0.29s/vid
+  [24900/26100] 7113s, ~0.29s/vid
+  [24908/26100] test/133995.mp4: NO FACES skipped
+  [24909/26100] test/133997.mp4: NO FACES skipped
+  [24917/26100] test/134006.mp4: NO FACES skipped
+  [24919/26100] test/134008.mp4: NO FACES skipped
+  [24920/26100] test/134009.mp4: NO FACES skipped
+  [24921/26100] test/134010.mp4: NO FACES skipped
+  [24922/26100] test/134011.mp4: NO FACES skipped
+  [24923/26100] test/134012.mp4: NO FACES skipped
+  [24924/26100] test/134013.mp4: NO FACES skipped
+  [24925/26100] test/134014.mp4: NO FACES skipped
+  [24926/26100] test/134015.mp4: NO FACES skipped
+  [24927/26100] test/134016.mp4: NO FACES skipped
+  [24928/26100] test/134017.mp4: NO FACES skipped
+  [24929/26100] test/134018.mp4: NO FACES skipped
+  [24930/26100] test/134019.mp4: NO FACES skipped
+  [24931/26100] test/134020.mp4: NO FACES skipped
+  [24932/26100] test/134021.mp4: NO FACES skipped
+  [24933/26100] test/134022.mp4: NO FACES skipped
+  [24950/26100] 7126s, ~0.29s/vid
+  [25000/26100] 7148s, ~0.29s/vid
+  [25050/26100] 7168s, ~0.29s/vid
+  [25100/26100] 7189s, ~0.29s/vid
+  [25121/26100] test/134217.mp4: NO FACES skipped
+  [25122/26100] test/134218.mp4: NO FACES skipped
+  [25123/26100] test/134219.mp4: NO FACES skipped
+  [25124/26100] test/134220.mp4: NO FACES skipped
+  [25125/26100] test/134221.mp4: NO FACES skipped
+  [25126/26100] test/134222.mp4: NO FACES skipped
+  [25127/26100] test/134223.mp4: NO FACES skipped
+  [25128/26100] test/134224.mp4: NO FACES skipped
+  [25129/26100] test/134225.mp4: NO FACES skipped
+  [25130/26100] test/134226.mp4: NO FACES skipped
+  [25131/26100] test/134227.mp4: NO FACES skipped
+  [25132/26100] test/134228.mp4: NO FACES skipped
+  [25133/26100] test/134229.mp4: NO FACES skipped
+  [25134/26100] test/134230.mp4: NO FACES skipped
+  [25135/26100] test/134231.mp4: NO FACES skipped
+  [25136/26100] test/134232.mp4: NO FACES skipped
+  [25137/26100] test/134233.mp4: NO FACES skipped
+  [25138/26100] test/134234.mp4: NO FACES skipped
+  [25139/26100] test/134235.mp4: NO FACES skipped
+  [25140/26100] test/134236.mp4: NO FACES skipped
+  [25142/26100] test/134238.mp4: NO FACES skipped
+  [25143/26100] test/134239.mp4: NO FACES skipped
+  [25144/26100] test/134240.mp4: NO FACES skipped
+  [25150/26100] 7202s, ~0.29s/vid
+  [25200/26100] 7222s, ~0.29s/vid
+  [25250/26100] 7243s, ~0.29s/vid
+  [25300/26100] 7262s, ~0.29s/vid
+  [25342/26100] test/134443.mp4: NO FACES skipped
+  [25343/26100] test/134444.mp4: NO FACES skipped
+  [25345/26100] test/134446.mp4: NO FACES skipped
+  [25346/26100] test/134447.mp4: NO FACES skipped
+  [25347/26100] test/134448.mp4: NO FACES skipped
+  [25348/26100] test/134449.mp4: NO FACES skipped
+  [25349/26100] test/134450.mp4: NO FACES skipped
+  [25350/26100] 7281s, ~0.29s/vid
+  [25367/26100] test/134468.mp4: NO FACES skipped
+  [25368/26100] test/134469.mp4: NO FACES skipped
+  [25369/26100] test/134470.mp4: NO FACES skipped
+  [25370/26100] test/134471.mp4: NO FACES skipped
+  [25371/26100] test/134472.mp4: NO FACES skipped
+  [25372/26100] test/134473.mp4: NO FACES skipped
+  [25373/26100] test/134474.mp4: NO FACES skipped
+  [25374/26100] test/134475.mp4: NO FACES skipped
+  [25375/26100] test/134476.mp4: NO FACES skipped
+  [25376/26100] test/134477.mp4: NO FACES skipped
+  [25377/26100] test/134478.mp4: NO FACES skipped
+  [25378/26100] test/134479.mp4: NO FACES skipped
+  [25385/26100] test/134486.mp4: NO FACES skipped
+  [25386/26100] test/134487.mp4: NO FACES skipped
+  [25387/26100] test/134488.mp4: NO FACES skipped
+  [25388/26100] test/134489.mp4: NO FACES skipped
+  [25389/26100] test/134490.mp4: NO FACES skipped
+  [25390/26100] test/134491.mp4: NO FACES skipped
+  [25391/26100] test/134492.mp4: NO FACES skipped
+  [25392/26100] test/134493.mp4: NO FACES skipped
+  [25395/26100] test/134496.mp4: NO FACES skipped
+  [25396/26100] test/134497.mp4: NO FACES skipped
+  [25397/26100] test/134498.mp4: NO FACES skipped
+  [25398/26100] test/134499.mp4: NO FACES skipped
+  [25399/26100] test/134500.mp4: NO FACES skipped
+  [25400/26100] test/134501.mp4: NO FACES skipped
+  [25401/26100] test/134502.mp4: NO FACES skipped
+  [25406/26100] test/134507.mp4: NO FACES skipped
+  [25408/26100] test/134509.mp4: NO FACES skipped
+  [25411/26100] test/134512.mp4: NO FACES skipped
+  [25413/26100] test/134514.mp4: NO FACES skipped
+  [25416/26100] test/134517.mp4: NO FACES skipped
+  [25417/26100] test/134518.mp4: NO FACES skipped
+  [25424/26100] test/134525.mp4: NO FACES skipped
+  [25425/26100] test/134526.mp4: NO FACES skipped
+  [25427/26100] test/134528.mp4: NO FACES skipped
+  [25428/26100] test/134529.mp4: NO FACES skipped
+  [25429/26100] test/134530.mp4: NO FACES skipped
+  [25430/26100] test/134531.mp4: NO FACES skipped
+  [25431/26100] test/134532.mp4: NO FACES skipped
+  [25432/26100] test/134533.mp4: NO FACES skipped
+  [25433/26100] test/134534.mp4: NO FACES skipped
+  [25434/26100] test/134535.mp4: NO FACES skipped
+  [25435/26100] test/134536.mp4: NO FACES skipped
+  [25436/26100] test/134537.mp4: NO FACES skipped
+  [25437/26100] test/134538.mp4: NO FACES skipped
+  [25442/26100] test/134543.mp4: NO FACES skipped
+  [25447/26100] test/134548.mp4: NO FACES skipped
+  [25448/26100] test/134549.mp4: NO FACES skipped
+  [25449/26100] test/134550.mp4: NO FACES skipped
+  [25450/26100] 7303s, ~0.29s/vid
+  [25455/26100] test/134556.mp4: NO FACES skipped
+  [25456/26100] test/134557.mp4: NO FACES skipped
+  [25457/26100] test/134558.mp4: NO FACES skipped
+  [25458/26100] test/134559.mp4: NO FACES skipped
+  [25461/26100] test/134562.mp4: NO FACES skipped
+  [25462/26100] test/134563.mp4: NO FACES skipped
+  [25467/26100] test/134568.mp4: NO FACES skipped
+  [25470/26100] test/134571.mp4: NO FACES skipped
+  [25471/26100] test/134572.mp4: NO FACES skipped
+  [25475/26100] test/134576.mp4: NO FACES skipped
+  [25476/26100] test/134577.mp4: NO FACES skipped
+  [25477/26100] test/134578.mp4: NO FACES skipped
+  [25478/26100] test/134579.mp4: NO FACES skipped
+  [25480/26100] test/134581.mp4: NO FACES skipped
+  [25481/26100] test/134582.mp4: NO FACES skipped
+  [25482/26100] test/134583.mp4: NO FACES skipped
+  [25483/26100] test/134584.mp4: NO FACES skipped
+  [25484/26100] test/134585.mp4: NO FACES skipped
+  [25500/26100] 7316s, ~0.29s/vid
+  [25550/26100] 7336s, ~0.29s/vid
+  [25600/26100] 7356s, ~0.29s/vid
+  [25650/26100] 7376s, ~0.29s/vid
+  [25700/26100] 7396s, ~0.29s/vid
+  [25730/26100] test/134831.mp4: NO FACES skipped
+  [25731/26100] test/134832.mp4: NO FACES skipped
+  [25738/26100] test/134839.mp4: NO FACES skipped
+  [25746/26100] test/134847.mp4: NO FACES skipped
+  [25750/26100] 7414s, ~0.29s/vid
+  [25800/26100] 7435s, ~0.29s/vid
+  [25850/26100] 7455s, ~0.29s/vid
+  [25900/26100] 7475s, ~0.29s/vid
+  [25950/26100] 7495s, ~0.29s/vid
+  [26000/26100] 7515s, ~0.29s/vid
+  [26033/26100] test/135136.mp4: NO FACES skipped
+  [26034/26100] test/135137.mp4: NO FACES skipped
+  [26035/26100] test/135138.mp4: NO FACES skipped
+  [26036/26100] test/135139.mp4: NO FACES skipped
+  [26050/26100] 7535s, ~0.29s/vid
+  [26100/26100] 7555s, ~0.29s/vid
+
+Processed 24907 videos, skipped 1193
+Threshold 0.5: acc=0.5339 (13297/24907) p=0.7417 r=0.5625 f1=0.6398
+  Always-fake baseline: 0.7359
+  Mean fake prob: real=0.5451 fake=0.5608
+
+Results saved to E:\Saad_audi deepfakes\results\cnn_lavdf_results.json

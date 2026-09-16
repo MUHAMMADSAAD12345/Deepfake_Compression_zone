@@ -1,0 +1,1213 @@
+Videos: 200 | models: both | workers: 4 | full_osn: False
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000001.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000003.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000002.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000000.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000004.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000008.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000006.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000005.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000009.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000012.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000010.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000011.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000013.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000014.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000016.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000015.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000017.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000018.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000019.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000020.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000021.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000022.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000023.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000024.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000025.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000026.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000028.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000027.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000029.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000030.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000032.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000031.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000033.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000034.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000035.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000036.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000037.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000038.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000040.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000039.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000041.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000042.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000043.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000044.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000045.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000046.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000047.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000048.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000050.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000049.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000051.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000052.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000054.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000053.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000055.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000057.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000058.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000056.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000059.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000061.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000060.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000062.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000063.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000065.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000064.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000066.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000067.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000068.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000069.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000070.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000071.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000072.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000074.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000073.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000076.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000075.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000077.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000078.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000079.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000080.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000081.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000083.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000082.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000084.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000088.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000085.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000086.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000087.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000092.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000090.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000089.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000091.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000093.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000095.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000094.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000096.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000097.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000099.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000098.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000100.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000102.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000103.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000101.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000104.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000105.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000106.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000107.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000108.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000109.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000111.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000112.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000110.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000113.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000114.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000115.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000116.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000117.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000118.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000120.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000119.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000121.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000122.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000123.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000124.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000125.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000126.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000127.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000128.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000129.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000130.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000132.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000131.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000133.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000134.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000135.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000136.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000138.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000137.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000139.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000140.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000141.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000142.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000143.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000144.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000145.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000146.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000147.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000148.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000149.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000150.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000151.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000152.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000153.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000154.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000155.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000156.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000157.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000158.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000160.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000159.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000161.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000162.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000163.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000164.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000165.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000166.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000167.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000168.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000169.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000170.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000171.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000172.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000173.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000174.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000178.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000175.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000176.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000177.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000179.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000180.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000181.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000182.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000184.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000183.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000185.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000186.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000187.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000188.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000189.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000190.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000191.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000192.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000194.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000193.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000195.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000196.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000197.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000198.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000199.mp4 (resnet50) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer_resnet50_best.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000200.mp4 (resnet50) done
+
+[resnet50] 200 videos in 447s (2.24s/video)
+[resnet50] NPZ: 6800 arrays
+[resnet50] Saved: E:\Saad_audi deepfakes\results\compression_degradation\results_resnet50_keepaudio.json
+  E:\Saad_audi deepfakes\results\compression_degradation\results_resnet50_keepaudio.csv
+  E:\Saad_audi deepfakes\results\compression_degradation\results_resnet50_keepaudio.npz
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000001.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000003.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000002.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000000.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000004.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000008.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000006.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000005.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000009.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000012.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000010.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000011.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000013.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000014.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000016.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000015.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000017.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000018.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000019.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000020.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000021.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000022.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000023.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000024.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000025.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000026.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000027.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000028.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000029.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000030.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000032.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000031.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000034.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000033.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000036.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000035.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000037.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000038.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000040.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000039.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000041.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000042.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000043.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000044.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000046.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000045.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000047.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000048.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000050.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000049.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000051.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000052.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000054.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000053.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000055.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000057.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000058.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000056.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000059.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000061.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000060.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000062.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000063.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000064.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000065.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000066.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000067.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000068.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000069.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000071.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000070.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000072.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000073.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000076.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000074.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000075.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000077.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000079.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000078.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000080.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000081.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000083.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000082.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000084.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000085.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000088.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000086.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000087.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000090.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000089.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000091.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000092.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000093.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000094.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000095.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000096.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000097.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000098.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000099.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000100.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000101.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000102.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000103.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000104.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000105.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000106.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000107.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000108.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000109.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000111.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000112.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000110.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000113.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000114.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000115.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000116.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000117.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000120.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000118.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000119.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000121.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000122.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000123.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000124.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000125.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000126.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000127.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000128.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000129.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000130.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000131.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000132.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000133.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000134.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000135.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000136.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000137.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000138.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000139.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000140.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000141.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000142.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000143.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000144.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000145.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000146.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000147.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000148.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000149.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000150.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000151.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000152.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000153.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000154.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000155.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000156.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000157.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000158.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000159.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000160.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000161.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000162.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000163.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000164.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000165.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000166.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000167.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000168.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000169.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000170.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000171.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000172.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000173.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000174.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000175.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000178.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000176.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000177.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000179.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000180.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000181.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000182.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000183.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000184.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000185.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000186.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000187.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000188.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000189.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000190.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000191.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000192.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000194.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000193.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000195.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000196.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000197.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000198.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000199.mp4 (vgg19) done
+[FER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\fer2013_vgg19.pt
+[SER] Loaded weights from E:\Saad_audi deepfakes\checkpoints\ser_weights.pt
+[worker] test/000200.mp4 (vgg19) done
+
+[vgg19] 200 videos in 442s (2.21s/video)
+[vgg19] NPZ: 6800 arrays
+[vgg19] Saved: E:\Saad_audi deepfakes\results\compression_degradation\results_vgg19_keepaudio.json
+  E:\Saad_audi deepfakes\results\compression_degradation\results_vgg19_keepaudio.csv
+  E:\Saad_audi deepfakes\results\compression_degradation\results_vgg19_keepaudio.npz

@@ -1,0 +1,297 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+pytestdebug.log
+pytestdebug.log.*
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+#   For a library or package, you might want to ignore these files since the code is
+#   intended to run in multiple environments; otherwise, check them in:
+# .python-version
+
+# pdm
+#   Similar to Pipenv and Poetry, pdm stores project information in a file named
+#   pdm.lock; but the pdm project recommends committing it.
+# .pdm.toml
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# === PROJECT SPECIFIC ===
+
+# CASR project (separate git repo)
+_casr/
+
+# Datasets (exclude all data directories)
+**/data/
+**/datasets/
+**/Datasets/
+**/Downloads/
+**/*.zip
+**/*.tar.gz
+**/*.tar
+**/*.rar
+**/*.7z
+
+# Video files
+**/*.mp4
+**/*.avi
+**/*.mov
+**/*.mkv
+**/*.flv
+**/*.wmv
+**/*.webm
+**/*.m4v
+
+# Audio files
+**/*.wav
+**/*.mp3
+**/*.flac
+**/*.aac
+**/*.m4a
+**/*.ogg
+
+# Image files (datasets)
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.bmp
+**/*.tiff
+**/*.tif
+
+# Model checkpoints and weights
+# *.pt
+# *.pth
+# *.weights.h5
+# *.keras
+# *.onnx
+# *.bin
+# *.safetensors
+
+# Checkpoint directories
+# **/checkpoints/
+# **/models/
+# **/weights/
+
+# Results and outputs
+# **/results/
+# **/outputs/
+# **/logs/
+# **/logs_*/
+# *.log
+# *.csv
+# *.json
+# *.npz
+# *.pkl
+# *.pickle
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# Jupyter notebooks output
+# *.ipynb
+# .ipynb_checkpoints/
+
+# Tensorboard
+# runs/
+# lightning_logs/
+
+# MLflow
+mlruns/
+
+# Wandb
+wandb/
+
+# === SPECIFIC PATHS IN THIS PROJECT ===
+
+# External datasets (large, not tracked)
+FaceForensics++/
+FaceForensics++_C23/
+LAV-DF/
+RAVDESS/
+Celeb-DF/
+Celeb-DF-v2/
+
+# Kaggle
+.kaggle/
+kaggle.json
+
+# Huggingface cache
+~/.cache/huggingface/
+**/.cache/huggingface/
+
+# Torch cache
+~/.cache/torch/
+**/.cache/torch/
+
+# OpenCV cascade
+**/haarcascade_frontalface_default.xml
+
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+
+# PID files
+*.pid
+
+# === ALLOW LIST (files to keep) ===
+!*.py
+!*.md
+!*.txt
+!*.yaml
+!*.yml
+!*.toml
+!*.cfg
+!*.ini
+!*.json
+!*.sh
+!*.bat
+!*.cmd
+!*.ps1
+!requirements.txt
+!setup.py
+!setup.cfg
+!pyproject.toml
+!README*
+!LICENSE*
+!CHANGELOG*
+!CONTRIBUTING*
+!AUTHORS*
+!Dockerfile
+!docker-compose.yml
+!docker-compose.yaml
+!.github/
+!.gitlab/
+!Makefile

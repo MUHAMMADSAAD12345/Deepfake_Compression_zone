@@ -1,0 +1,18 @@
+{
+  "resnet50_keepaudio": {
+    "n_videos": 200,
+    "always_fake": 0.72
+  },
+  "vgg19_keepaudio": {
+    "n_videos": 200,
+    "always_fake": 0.72
+  },
+  "resnet50_osn": {
+    "n_videos": 200,
+    "always_fake": 0.72
+  },
+  "vgg19_osn": {
+    "n_videos": 200,
+    "always_fake": 0.72
+  }
+}

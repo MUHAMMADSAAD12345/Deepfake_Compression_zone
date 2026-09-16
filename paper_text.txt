@@ -1,0 +1,937 @@
+=== PAGE 1 ===
+341 
+Multimodal Neurosymbolic Approach for Explainable 
+Deepfake Detection 
+IJAZ UL HAQ , Department of Computer Science and Engineering, Oakland University, Rochester, 
+MI, USA 
+KHALID MAHMOOD MALIK , Department of Computer Science and Engineering, Oakland 
+University, Rochester, MI, USA and College of Innovation and Technology, The University of 
+Michigan-Flint, Flint, MI, USA 
+KHAN MUHAMMAD , Visual Analytics for Knowledge Laboratory (VIS2KNOW Lab), Department of 
+Applied Artificial Intelligence, School of Convergence, College of Computing and Informatics, 
+Sungkyunkwan University, Republic of Korea 
+Deepfake detection has become increasingly important in recent years owing to the widespread availability 
+of deepfake generation technologies. Existing deepfake detection methods present two primary limitations; 
+i.e., they are trained on a specific type of deepfake dataset, which renders them vulnerable to unseen deep- 
+fakes, and they regard deepfakes as a “black box” with limited explainability, making it difficult for non-AI 
+experts to understand and trust the decisions. Hence, this article proposes a novel neurosymbolic deepfake 
+detection framework that exploits the fact that human emotions cannot be imitated easily owing to their 
+complex nature. We argue that deep fakes typically exhibit inter- or intra-modality inconsistencies in the 
+emotional expressions of the person being manipulated. Thus, the proposed framework performs inter- and 
+intra-modality reasoning on emotions extracted from audio and visual modalities using a psychological and 
+arousal-valence model for deepfake detection. In addition to fake detection, the proposed framework pro- 
+vides textual explanations for its decisions. The results obtained using the Presidential Deepfakes Dataset 
+and World Leaders Dataset of real and manipulated videos demonstrate the effectiveness of our approach in 
+detecting deepfakes and highlight the potential of a neurosymbolic approach for expandability. 
+CCS Concepts: • Social and professional topics →Social engineering attacks; • Computing method- 
+ologies →Scene anomaly detection ; Biometrics ; 
+Additional Key Words and Phrases: Deepfake detection, Emotion recognition, Knowledge base, Manipulation 
+detection, Neurosymbolic 
+This material is based upon work supported by the National Science Foundation (NSF) under award numbers 2329858 
+and 2231619, and Michigan Transnational Research and Commercialization (MTRAC), Advanced Computing Technologies 
+(ACT) award number 292883. Any opinions, findings, conclusions, or recommendations expressed in this material are those 
+of the author(s) and do not necessarily reflect the views of the NSF and MTRAC ACT. 
+Authors’ addresses: I. U. Haq, Department of Computer Science and Engineering, Oakland University, Rochester, MI, USA; 
+e-mail: ijazulhaq@oakland.edu; K. M. Malik (Corresponding author), Department of Computer Science and Engineering, 
+Oakland University, Rochester, MI, USA and College of Innovation and Technology, The University of Michigan-Flint, 
+Flint, MI, USA; e-mail: mahmood@oakland.edu; K. Muhammad (Corresponding author), Visual Analytics for Knowledge 
+Laboratory (VIS2KNOW Lab), Department of Applied Artificial Intelligence, School of Convergence, College of Computing 
+and Informatics, Sungkyunkwan University, Republic of Korea; e-mail: khan.muhammad@ieee.org. 
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee 
+provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and 
+the full citation on the first page. Copyrights for components of this work owned by others than the author(s) must be 
+honored. Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, 
+requires prior specific permission and/or a fee. Request permissions from permissions@acm.org . 
+© 2024 Copyright held by the owner/author(s). Publication rights licensed to ACM. 
+1551-6857/2024/09-ART341 $15.00 
+https://doi.org/10.1145/3624748 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 2 ===
+341:2 
+I. U. Haq et al. 
+ACM Reference format: 
+Ijaz Ul Haq, Khalid Mahmood Malik, and Khan Muhammad. 2024. Multimodal Neurosymbolic Approach for 
+Explainable Deepfake Detection. ACM Trans. Multimedia Comput. Commun. Appl. 20, 11, Article 341 (Sep- 
+tember 2024), 16 pages. 
+https://doi.org/10.1145/3624748 
+1 INTRODUCTION 
+The advent of deep learning has resulted in the development of sophisticated tools for image and 
+video manipulation. These tools can be used for legitimate purposes, such as for creating spe- 
+cific effects in the movie industry. However, they can be used by malicious parties, e.g., to create 
+deepfakes. Deepfakes pose a significant threat to public trust and security, as they can be used to 
+disseminate wrong information, defame individuals, or manipulate public opinion, specifically on 
+social media [ 1 ]. For instance, a deepfake video can be created to show a political figure present- 
+ing false statements or engaging in illegal activities. An example in recent years includes a deep- 
+fake video of Canadian Prime Minister Justin Trudeau circulating on social media in 2019, which 
+showed Trudeau discussing a scandal involving the Canadian government. Similarly, a deepfake 
+video of former Vice President Joe Biden was created and shared during the 2020 election, when 
+Biden appeared to endorse President Trump. These examples may result in public outrage over 
+and loss of trust in an individual or institution; hence, the potential of deepfakes in influencing 
+political campaigns or election outcomes is concerning. Deepfakes are not limited to politics [ 2 ]. 
+In 2019, a UK-based energy company received a phone call from its CEO, which was in fact a 
+deepfake voice generated by an AI algorithm, and was asked to transfer $243,000 to a Hungarian 
+supplier within an hour. 
+Researchers are developing various deep-learning-based methods to combat the dissemination 
+of deep fakes. These methods focus primarily on visual artifacts that occur because of inconsisten- 
+cies in the local texture. However, with the rapid advancement in deepfake technology, generating 
+highly realistic content has become possible, thus rendering it increasingly challenging to differen- 
+tiate between real and fake media using existing techniques. In other methods, biometric signals 
+such as heartbeat rate [ 3 ], emotions [ 4 ], and eye-blinking [ 5 ] patterns are used, where the tar- 
+geted facial motion of an individual is prioritized, thus limiting generalization to new identities. 
+Furthermore, most deepfake detection techniques rely on black-box models that cannot interpret 
+or explain the reason that a video is classified as fake. Hence, they do not garner the trust of the 
+audience. Some explainable deepfake detection approaches have been reported in the literature; 
+however, most of them perform decisions based on typical attention mechanisms such as Grad- 
+CAM [ 6 ], that can only highlight a specific region via the heatmaps of an image or video. Despite 
+the significant progress in deepfake detection, several research questions are yet to be addressed, 
+as follows: 
+(1) How can logical reasoning be effectively incorporated across multiple modalities to en- 
+hance deepfake detection? 
+(2) What psychological knowledge is necessary to improve the generalizability of deepfake 
+detection techniques? 
+(3) How can explainable approaches be developed to make deepfake detection accessible to 
+non-AI experts? 
+To answer these questions, this article proposes a multimodal neurosymbolic approach for deep- 
+fake detection. We argue that human emotion psychology is one of the most prominent biological 
+signals for deepfake detection due to its complex nature, which cannot be perfectly replicated 
+by generative algorithms. Therefore, we studied the specific probabilities of transitions from one 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 3 ===
+Multimodal Neurosymbolic Approach for Explainable Deepfake Detection 
+341:3 
+emotional state to another that results in consistent emotional stability in individuals. Our aim is 
+to detect irregular transitions (with low probability) among various emotions in a single modal- 
+ity. However, we observed a natural connection between visual and aural emotions at a specified 
+timestamp, which must be consistent in most cases. Therefore, the proposed method integrates 
+multimodal and neurosymbolic approaches to perform human-understandable reasoning for deep- 
+fake detection. According to Henry Kautz [ 7 ], the proposed framework can be categorized into a 
+Type 2 (i.e., Symbolic[Neuro]) architecture, where neural modules are used as subroutine within 
+a symbolic problem solver. In summary, the symbolic and neural components are loosely coupled. 
+Specifically, the proposed framework first extracts emotions from visual and aural modalities via 
+deep models, which is the neural component. Subsequently, inter- and intra-modality reasoning 
+is performed in the symbolic module to determine the fakeness of a specified video. Unlike ex- 
+isting explainable methods that use Grad-CAM [ 6 ] to highlight the portion of a frame to be fo- 
+cused, the proposed neurosymbolic approach can provide interpretable reasoning details that can 
+be converted to textual explanations for non-AI experts. The main contributions of this study are 
+summarized as follows: 
+(1) A novel biological signal (which demonstrates consistency between emotion transitions) 
+is proposed for deepfake detection. The proposed framework performs inter- and intra- 
+modality reasoning to detect inconsistencies in emotional transitions in visual and aural 
+modalities. 
+(2) To the best of our knowledge, this study is the first to utilize external knowledge (i.e., psy- 
+chological and arousal-valence dimensions) for deepfake detection using a neurosymbolic 
+approach, which renders the overall framework more interpretable. 
+(3) The proposed framework provides textual explanations (domain specific) with localization 
+of the timestamp along with fakeness detection, which renders it more reliable and un- 
+derstandable for explaining decisions compared with state-of-the-art deepfake detection 
+methods. 
+The remainder of the article is organized as follows: Section 2 presents the literature on deepfake 
+detection algorithms. Section 3 presents the technical details pertaining to the proposed deepfake 
+detection algorithm. The experimental settings and results are discussed in Section 4 . Finally, the 
+findings of the study and future research directions are presented in Section 5 . 
+2 LITERATURE REVIEW 
+The literature on deepfake detection can be broadly classified into two categories: Section 2.1 
+artifact-based methods and Section 2.2 biological-signal-based methods. Artifact-based methods 
+focus primarily on detecting blending traces that occur during deepfake generation, whereas 
+biological-signal-based methods focus on individual behaviors and various psychological cues. 
+Both categories consider spatial and temporal features along with single or multimodal data. The 
+following subsections discuss each category in detail. 
+2.1 Artifact-based Methods 
+One of the most challenging aspects of deepfake generation algorithms is blending the source 
+face with the target with minimum blending artifacts. To detect such artifacts for deepfake detec- 
+tion, Durall et al. [ 8 ] performed a discrete Fourier transform with an azimuthal average to analyze 
+these artifacts in the frequency domain and make them more visible in the detection algorithm. 
+Subsequently, several classification algorithms, such as the SVM, LR, and K-mean, were trained to 
+classify deepfakes. Li and Lyu [ 31 ] combined VGG16, ResNet50, ResNet101, and ResNet152 to an- 
+alyze artifacts in low-resolution deepfakes wrapped to fit the target face. This method was further 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 4 ===
+341:4 
+I. U. Haq et al. 
+improved in another study [ 9 ] by adding a pooling layer, which resulted in better performance 
+in detecting variations in the resolution of the target and deepfake media. Similarly, Nirkin et al. 
+[ 10 ] first segmented a test image into face and hair/context and then generated three different 
+encodings. Subsequently, these encodings were used in a decoder for classification, where the en- 
+coding of the source was concatenated with the difference between the face-only and hair/context 
+encodings. 
+Masi et al. [ 11 ] proposed a two-stream framework consisting of bidirectional LSTM, with em- 
+phasis on residual errors for deepfake detection. One stream uses frequency to reduce the errors, 
+whereas the other stream fine-tunes the original information in the color domain. Recently, Zhao 
+et al. [ 12 ] proposed a transformer-based self-attention and self-subtracting mechanism for spatial 
+artifact and temporal inconsistency detection. They mainly focused on investigating the supported 
+learning mechanism by analyzing the proposed framework using the Grad-CAM [ 6 ]. Typical Deep- 
+Fake videos often indicate inconsistencies in certain facial features across frames, which can be 
+detected via appearance-level analysis. To detect such inconsistencies, Ge et al. [ 13 ] proposed a 
+predictive representative learning approach that combines a CNN encoder, a ConvGRU-based ag- 
+gregator, and a single-layer binary classifier to capture semantic changes specific to deepfakes. 
+Some researchers have addressed deepfake detection as an anomaly detection problem. For exam- 
+ple, Sun et al. [ 14 ] analyzed facial region trajectories for deepfake detection. In their method, the 
+face region displacement was first calculated; subsequently, a trajectory series was constructed, 
+which was then analyzed for deepfake detection. 
+2.2 Biological-signal-based Methods 
+Unlike GANs, which use sets of latent spaces for deepfake generation, recent diffusion probabilistic 
+models have achieved high-quality deepfake generation with almost no residual artifact traces. 
+Thus, biological signals such as heart rate, respiration, and emotions are considered better options 
+for high-quality deepfake detection where visual artifacts are less apparent. Various techniques 
+have been described in the literature that utilize heart rate analysis to detect deepfakes based on 
+biological signals [ 15 –17 ]. The challenge with these approaches is extracting accurate heart rates 
+from visual signals. For instance, Jin et al. [ 18 ] used a multidimensional feature space from the 
+RGB, Y U V, and chromatic dimensions to extract heart rate from a visual modality. Subsequently, 
+these multidimensional features were used to classify deep fakes using a CNN as a binary classifier. 
+Similarly, Fernandes et al. [ 19 ] proposed a neural ordinary differential equation-based model for 
+detecting heart rate changes over time. They extracted the heart rate by measuring skin color 
+variations, optical intensities from the forehead, and temporal changes in color. 
+In addition to the heart rate, several individual behavior-based approaches have been reported 
+for deepfake detection [ 20 ]. For example, Agarwal and Farid [ 21 ] investigated the dynamics of 
+synchrony between audio and visual modalities. They argued that the movement of the mandible 
+(lower jaw) caused changes in the shape of the ear and ear canal during talking. They analyzed 
+the correlation between the corresponding facial landmarks and speech signals. Recently, Agarwal 
+et al. [ 22 ] presented a similar approach, with emphasis on the synchronization between spoken 
+words and facial movements in a video. They used pretrained facial landmark detection and a text- 
+based model to extract facial movements and spoken words and learned person-specific biometric 
+patterns. 
+Additionally, the potential of emotions in deepfake detection has been investigated. For exam- 
+ple, Mazaheri and Roy-Chowdhury [ 23 ] customized a pretrained facial expression recognition 
+( FER ) model for deepfake detection with the additional application of localizing the section of 
+the face that is involved in false expressions using Grad-CAM [ 6 ]. Mittal et al. [ 4 ] proposed a 
+multimodal deepfake detection model that uses facial expression analysis and speech emotion 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 5 ===
+Multimodal Neurosymbolic Approach for Explainable Deepfake Detection 
+341:5 
+Fig. 1. Systematic overview of proposed deepfake detection framework, which comprises emotion detection 
+and reasoning modules. 
+recognition ( SER ) to identify inconsistencies between the emotions portrayed in visual and audio 
+channels, which are likely to occur in deepfake videos. Similarly, Hosler et al. [ 24 ] focused on the 
+inconsistencies between aural and visual emotions for deepfake detection. In this method, the low- 
+level descriptors of a subject’s speech and face are first extracted to present the subject’s emotions 
+over time; subsequently, a recurrent neural network is trained on deepfake videos. These methods 
+are closely related to the proposed method in terms of emotion analysis from multiple modalities. 
+However, our study differs from [ 4 , 23 , 24 ] in two respects: we consider both inter- and intra- 
+modality inconsistencies in emotions and perform reasoning based on psychological knowledge 
+instead of deciding the fakeness of a video based on the error score. 
+3 PROPOSED METHODOLOGY 
+This section discusses the technical details of the proposed deepfake detection framework. The 
+overall framework is shown in Figure 1 . First, the input video is preprocessed and forwarded to 
+the SER and FER models. Second, the predicted emotions are symbolized in the reasoning module, 
+where intra- and inter-modality reasoning is performed to determine the fakeness of a given video. 
+Finally, the framework predicts the fakeness of the video and provides a short textual explanation 
+for interpretability. Each step in the proposed framework is discussed in the following subsections. 
+3.1 Problem Formulation 
+Consider V and A as the visual and aural modalities of the input video I to be tested for fakeness, 
+respectively, whereas s i and f i are the audio segments and video frames of the synchronized times- 
+tamps that are preprocessed and forwarded to SER and FER models, respectively. The predicted 
+emotions from V and A at timestamp i are denoted as f i (E) and s i (E) , respectively. Our goal is to 
+determine the fakeness of an input video with an explanation for which inter- and intra-modality 
+symbolic reasoning is performed to detect fake emotion transitions based on the psychological 
+knowledge base KB and arousal-valence dimensions AVD . The proposed framework can identify 
+deepfake videos along with textual explanations that localize the timestamp and identify fake- 
+ness in inter- or intra-modalities. Table 1 presents the symbols and their descriptions. Algorithm 
+1 explains the overall flow of the proposed framework. 
+3.2 Preprocessing 
+The preprocessing step involves extracting V and A modalities from the input video, synchroniz- 
+ing and segmenting the aural signals into equal time intervals, and detecting the face in the se- 
+lected frames. For synchronization, we selected three frames and partitioned the audio into three 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 6 ===
+341:6 
+I. U. Haq et al. 
+Table 1. List of Acronyms Used in Proposed Framework 
+Symbol 
+Description 
+Symbol
+Description 
+I 
+Input video 
+SER 
+Speech emotion recognition model 
+FER 
+Facial expression recognition model 
+s i 
+Audio segment at time i 
+f i 
+Video frame at time i 
+f i (E) 
+Predicted emotion at f i 
+s i (E) 
+Predicted emotion at s i 
+E 
+Set of all emotions 
+KB 
+Knowledge base 
+VT i 
+Resultant visual emotion transition at time i 
+AT i 
+Resultant aural emotion transition at time i 
+t 
+Threshold 
+AVD 
+Arousal-valence dimensions 
+VE 
+Set of detected visual emotions 
+AE 
+Set of detected aural emotions 
+IM 
+Resultant inter-modality reasoning 
+corresponding segments of a 1 s video to ensure that the audio and visual signals matched per- 
+fectly. Each audio segment lasted 0.5 s, with a 0.25 s overlap having mono channel at a sample rate 
+of 16 kHz. Finally, we employed a pretrained face detector [ 25 ] on the selected frames to crop the 
+face regions over time. 
+ALGORITHM 1 : Emotion-inconsistency-based deepfake detection 
+Input: Video I of length n 
+Initialization: Load trained models and knowledge base, i.e., FER, SER, KB, AVM 
+Steps: 
+1: f i , s i ← Preprocessing ( I) 
+// frames and segments extraction and synchronization 
+2: for i to n do: 
+// audio and visual emotion detection 
+VE ← FER(f i ) 
+AE ← SER(s i ) 
+3: VT, AT ← KB (VE, AE) 
+// intra-modality reasoning using Equations ( 4 ) and ( 5 ) 
+4: IM ← AVD(VE,AE) 
+// inter-modality reasoning using Equation ( 6 ) 
+5: pred, exp ← (VT, AT, IM) 
+// classification and explanation generation using Equations ( 7 ) and ( 8 ) 
+Output: pred, exp 
+3.3 Multimodal Emotion Detection 
+Emotion is a prominent yet complex biological signal for the generation of deepfakes. Therefore, 
+the preprocessed signals were forwarded to detect emotions over time from both the V and A of 
+the input video. Facial landmarks, color, texture, and various acoustic properties such as pitch, 
+intensity, and spectral attributes were considered. To extract emotions from both modalities, we 
+employed pretrained FER and SER models that classified the input signals into seven basic emo- 
+tions: angry, disgust, fear, happy, sad, surprise, and neutral. 
+3.3.1 Facial Emotion Recognition (FER). FER involves the identification and extraction of vari- 
+ous facial landmarks such as the eyes, nose, mouth, and eyebrows. Subsequently, these landmarks 
+are used to compute the movement of each landmark, thus providing valuable information regard- 
+ing the emotional state of the individual. In the proposed framework, we adopted an FER model 
+[ 26 ] based on the ResNet50 architecture. This model comprised multiple convolutional layers with 
+ReLU activation, followed by max pooling and batch normalization. The output of the CNN was 
+fed to a fully connected layer, which yielded the final classification via a softmax classifier. We 
+trained this model on the FER2013 dataset [ 27 ] at a learning rate of 0.001 and a batch size of 128 
+for 50 epochs. Further technical details are available in an online repository [ 26 ]. 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 7 ===
+Multimodal Neurosymbolic Approach for Explainable Deepfake Detection 
+341:7 
+Table 2. Knowledge Base of Emotional State Transition Acquired from 
+Psychological Study [ 30 ] 
+Normal Happy Sad Angry Disgust Fear Surprise 
+Normal 
+0.421 
+0.213 0.084 0.190 
+0.056 0.050 
+0.047 
+Sad 
+0.362 
+0.509 0.296 0.264 
+0.262 0.244 
+0.252 
+Happy 
+0.061 
+0.090 0.320 0.091 
+0.123 0.137 
+0.092 
+Angry 
+0.060 
+0.055 0.058 0.243 
+0.075 0.101 
+0.056 
+Disgust 
+0.027 
+0.039 0.108 0.086 
+0.293 0.096 
+0.164 
+Fear 
+0.034 
+0.051 0.064 0.076 
+0.069 0.279 
+0.075 
+Surprise 0.032 
+0.042 0.068 0.048 
+0.121 0.092 
+0.313 
+3.3.2 Speech Emotion Recognition (SER). To extract speech emotions from the preprocessed 
+aural signals, we fine-tuned one of the existing implementations of the SER repository based on 
+our problem. We retrained this model on seven basic emotions from the RAVDESS dataset [ 28 ] 
+by excluding the “clam” class. First, the MFCC, Chroma, and MEL spectrograms were extracted; 
+subsequently, they were fed into the MLP classifier. The best performance was achieved when the 
+following parameters were used: a hyperparameter of alpha = 0.01, a batch size of 256, an epsilon 
+of 1e -08 , and 300 hidden layers for 500 epochs. The dataset ratio was the standard 80% training set 
+and 20% test set. Further technical details are available in [ 29 ]. 
+3.4 Symbolic Reasoning Module 
+We argue that emotions are psychological phenomena that are not perfectly emulated during deep- 
+fake generation due to their complex nature. Therefore, the proposed symbolic reasoning module 
+performs reasoning regarding the extracted emotions in two manners: (1) intra-modality reason- 
+ing, in which the inconsistency in detected emotions focuses on each modality over time, and 
+(2) inter-modality reasoning, which focuses on inconsistencies in the valence-arousal space be- 
+tween aural and visual modalities. Intra- and inter-modality reasoning are based on the psycho- 
+logical knowledge base KB for emotional state transition and the valence-arousal distributions 
+VAD , respectively. To perform logical reasoning, we first convert the detected aural and visual 
+emotions into symbols over time, as shown in Equations ( 1 ) and ( 2 ): 
+V E = [ f i ( E ) , f i+1 ( E ) , f i+2 ( E ) . . . f i+n ( E ) ] 
+(1) 
+AE = [ s i ( E ) , s i+1 ( E ) , s i+2 ( E ) ... s i+n ( E ) ] , 
+(2) 
+where VE and AE are the sets of emotions detected from V and A modalities over time, respectively. 
+3.4.1
+Intra-modality Reasoning. To detect inconsistencies between emotion transitions over 
+time in each modality, we adopted the KB from a psychological study [ 30 ] to analyze human emo- 
+tions in terms of the probability of emotional change from one state to another. This KB was 
+acquired from 200 participants based on a questionnaire that represented the probability of transi- 
+tion between the current and next emotional states. We formulated this KB based on our problem 
+and generated rules for reasoning. Table 2 presents the KB , where the first column represents 
+the current emotional state and the first row represents the next detected emotional state. First, 
+we calculated the mean value of all the transition probabilities of the detected emotion to set the 
+threshold t , as expressed in Equation ( 3 ): 
+t = mean ( KB ( f i ( E ) | s i ( E ) , : ) ), 
+(3) 
+where t defines a unique threshold value for the transition probabilities of the seven emotions. 
+Thus, we define a rule where if the probability of two constitutive emotional states exceeds t, then 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 8 ===
+341:8 
+I. U. Haq et al. 
+Fig. 2. Representation of seven basic emotions in arousal-valence dimension. 
+the transition will be considered normal (real); otherwise, the emotion transition will be considered 
+unusual (fake), as expressed in Equations ( 4 ) and ( 5 ): 
+V T i = 
+ real 
+if KB ( f i ( E ) , f i+1 ( E ) ) > t 
+f ake othe rw is e 
+(4) 
+AT i = 
+ real 
+if KB ( s i ( E ) , s i+1 ( E ) ) > t 
+f ake othe rw is e 
+, 
+(5) 
+where VT i and AT i are the emotion transition statuses for the visual and aural modalities at times- 
+tamp i , respectively. 
+3.4.2
+Inter-modality Reasoning. The visual and aural modalities for deepfake detection have 
+been compared previously [ 4 , 31 ]. However, these methods rely on the final loss value to de- 
+tect the overall fakeness of a given video, which is a black-box decision that does not spec- 
+ify the fake modality. Therefore, the proposed inter-modality reasoning module uses one of the 
+well-established emotion models [ 32 ] (i.e., arousal-valence dimensions), which is typically used 
+in psychology, and captures the emotional affect through valence and the intensity of the emo- 
+tion through arousal. For this task, we formulated the basic principles of the model for seven basic 
+emotions to accommodate our problem. We distributed the detected emotions into four quadrants, 
+Q n , where n = 1, 2, 3, and 4 , as shown in Figure 2 . To define the rule for determining the variation 
+in emotions in visual and aural modalities, a video is considered real if both aural and visual emo- 
+tions belong to the same quadrant Q n at a time i, and vice versa. For example, if the audio modality 
+detects the happy emotion and the visual modality detects the surprise emotion, then the result 
+will be a typical (real) video because both belong to the same quadrant Q 1 . The rule for this task 
+is formulated as shown in Equation ( 6 ): 
+IM i = 
+ real 
+if f i ( E ) ∧ s i ( E ) ∈ Q n 
+f ake othe rw is e 
+, 
+(6) 
+where IM i is the resultant status of inter-modality reasoning for emotions V and A detected at time 
+i , and Q n is one of the quadrants where n ∈ [ 1 , 2 , 3 , 4 ], as shown in Figure 2 . 
+3.5 Classification and Textual Explanation Generation 
+Once intra- and inter-modality reasoning is performed, the proposed framework generates a short 
+textual explanation with probability scores to determine the fakeness of a given video. For instance, 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 9 ===
+Multimodal Neurosymbolic Approach for Explainable Deepfake Detection 
+341:9 
+VT and AT are the results of intra-modality reasoning, and IM is the result of inter-modality rea- 
+soning for a given video of length N . Subsequently, we extract the indices Indx with fake labels 
+and calculate their probabilities individually based on VT, AT , and IM using Equations ( 7 ) and ( 8 ): 
+Indx [ V T , AT , IM ] = V T i , AT i , IM i ∀ i ∈ f ake 
+(7) 
+P r ob [ V T , AT , IM ] = 
+N 
+ 
+i= 1 
+V T i 
+N , AT i 
+N , IM i 
+N 
+
+∀ i ∈ f ake, 
+(8) 
+where Indx holds the indices for fake labels of each reasoning module, and Prob represents the 
+probability of fake labels for each reasoning module. These probabilities were calculated based on 
+the ratio of unusual (fake) emotion transitions for intra-modality reasoning and mismatched (fake) 
+emotions for inter-modality reasoning over the total length N of a given video. For instance, if the 
+Prob of fake visual transitions VT exceeds 10% in a video of length N, then the visual modality will 
+be considered tampered or deepfake. Subsequently, the selected indices and probabilities are used 
+as tokens to generate textual explanations from a set of predefined vocabulary that can identify 
+the localization of fake timestamps and specific modalities that are more understandable to non-AI 
+experts as compared with the interpretability of Grad-CAM [ 6 ]. 
+4 EXPERIMENTAL EVALUATION 
+This section presents the details of the experimental setup, optimal settings for the proposed 
+method, dataset description, and performance analysis performed to demonstrate the effective- 
+ness of the proposed neurosymbolic approach for DFD. 
+4.1 Experimental Setup and Dataset 
+To conduct the experiments, we converted the input videos into sets of cropped faces from the 
+visual modality and the corresponding 0.5 s audio segments from the aural modality. The FER 
+and SER models were trained on a system configured with a GPU with 24 GB of memory, 64 
+GB of RAM, and CUDA 11.0. The implementation was performed using the Tensorflow 2.0.5 and 
+Keras 2.0.0 frameworks in Python 3.7, in the Anaconda environment. The proposed method was 
+evaluated on the Presidential Deepfakes Dataset (PDD) [ 33 ], which contains 32 video clips 
+of the two most recent US presidents, Donald Trump and Joseph Biden. Half of the videos were 
+deepfake and were created using various deep learning techniques, such as Wav2Lip and fake au- 
+dio. The complete dataset contained 20,425 frames, which were 11 min and 26 s in length. Unlike 
+other methods that use a standard ratio of datasets for training and testing, we used the overall 
+dataset presented in [ 33 ]. Figure 3 (a) shows samples from the PDD. Additionally, we evaluated the 
+proposed framework on the World Leaders Dataset (WLD) [ 34 ], which comprised videos featur- 
+ing FaceSwap-manipulated images of various political leaders, including Obama, Hillary Clinton, 
+Elizabeth Warren, and Bernie Sanders. Actual videos were obtained from YouTube, and the ma- 
+nipulated samples were created using swapped faces of the leaders’ comedic impersonators. In 
+this dataset, we used only actual (both visual and aural real) and deepfake (both visual and aural 
+manipulated) samples and discarded the imposter class. Figure 3 (b) shows some sample images 
+from the WLD. 
+4.2 Evaluation of Emotion Detection Models 
+This section presents the performance evaluation of the visual and aural emotion detection mod- 
+els. For visual emotion detection, the FER model was tested on the FER2013 dataset [ 27 ], which 
+comprised 35,887 samples of 48 × 48 pixel grayscale face images categorized into seven basic emo- 
+tions. The FER model achieved an overall accuracy of 90.64%, and the confusion matrix is shown 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 10 ===
+341:10 
+I. U. Haq et al. 
+Fig. 3. Samples from (a) Presidential Deepfakes Dataset [ 33 ] and (b) World Leaders Dataset [ 34 ]. Top row: 
+real; bottom row: fake. 
+Fig. 4. Confusion matrix of (a) FER and (b) SER models. 
+in Figure 4 (a). The FER model exhibited an accuracy exceeding 90% in recognizing each emotion 
+except for neutral and disgust classes, where it exhibited an accuracy of 88% for those classes. 
+Similarly, the SER model was tested on the RAVDESS dataset [ 28 ], which contained eight classes. 
+In this study, we used seven basic emotions, where we excluded the “calm” class such that each 
+modality has the same classes. In general, the SER model achieved an accuracy of 89.35%, and each 
+class achieved an accuracy exceeding 84%, as shown in Figure 4 (b). 
+4.3 Performance Evaluation on PDD 
+We evaluated the performance of the proposed framework by comparing it with the leading model 
+from the Deepfake Detection Challenge (DFDC) , which was used in [ 34 ]. They provided a con- 
+fidence score for each video prediction, which we similarly provided to evaluate the manner by 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 11 ===
+Multimodal Neurosymbolic Approach for Explainable Deepfake Detection 
+341:11 
+Table 3. Comparative Analysis of Proposed Neurosymbolic Approach with Approach Presented in [ 33 ] 
+Video 
+Ground 
+Truth 
+DFDC [ 33 ] 
+Proposed (Intra-modality) 
+Confidence 
+Prediction 
+Confidence 
+Prediction 
+Biden 00 
+Fake 
+.63 
+Fake 
+.43 
+Fake 
+Biden 01 
+.96 
+Fake 
+.38 
+Fake 
+Biden 02 
+.96 
+Fake 
+.41 
+Fake 
+Biden 03 
+.50 
+–
+.26 
+Fake 
+Biden 04 
+.96 
+Fake 
+.62 
+Fake 
+Biden 05 
+.97 
+Fake 
+.21 
+Fake 
+Biden 06 
+.97 
+Fake 
+.63 
+Fake 
+Biden 07 
+.95 
+Fake 
+.45 
+Fake 
+Trump 00 
+.27 
+Real 
+.31 
+Fake 
+Trump 01 
+.28 
+Real 
+.43 
+Fake 
+Trump 02 
+.20 
+Real 
+.39 
+Fake 
+Trump 03 
+.37 
+Real 
+.14 
+Real 
+Trump 04 
+.75 
+Fake 
+.19 
+Fake 
+Trump 05 
+.04 
+Real 
+.11 
+Real 
+Trump 06 
+.08 
+Real 
+.31 
+Fake 
+Trump 07 
+.79 
+Fake 
+.33 
+Fake 
+Biden 08 
+Real 
+.02 
+Real 
+.97 
+Real 
+Biden 09 
+.09 
+Real 
+.88 
+Real 
+Biden 10 
+.19 
+Real 
+.86 
+Real 
+Biden 11 
+.25 
+Real 
+.92 
+Real 
+Biden 12 
+.01 
+Real 
+.86 
+Real 
+Biden 13 
+.04 
+Real 
+.83 
+Fake 
+Biden 14 
+.85 
+Fake 
+.85 
+Real 
+Biden 15 
+.21 
+Real 
+.94 
+Real 
+Trump 08 
+.07 
+Real 
+.45 
+Fake 
+Trump 09 
+.27 
+Real 
+.88 
+Real 
+Trump 10 
+.57 
+Fake 
+.91 
+Real 
+Trump 11 
+.08 
+Real 
+.89 
+Real 
+Trump 12 
+.09 
+Real 
+.87 
+Real 
+Trump 13 
+.01 
+Real 
+.91 
+Real 
+Trump 14 
+.12 
+Real 
+.89 
+Real 
+Trump 15 
+.73 
+Fake 
+.87 
+Real 
+Overall Accuracy 
+69% 
+87.5% 
+The Proposed Framework Correctly Classified Eight Videos That Were Incorrectly Classified in [ 33 ]. 
+which the neurosymbolic approach addresses the misclassification of deep-learning-based solu- 
+tions. For an unbiased comparison, we performed comparison with the intra-modality reasoning 
+results of the visual modality. Table 3 presents a comparative analysis along with the confidence 
+scores of the proposed framework and the results obtained from [ 33 ]. The DFDC model achieved 
+an overall accuracy of 69% in the case where the model identified a likelihood exceeding 50% for 
+the ground truth. In our framework, we set this threshold to 15%; i.e., if fake emotion transition in 
+the video exceeds 15%, then the video is regarded as deepfake; otherwise, it is considered real. The 
+proposed framework achieved an accuracy of 87.5% based on intra-modality reasoning (visual) 
+without any prior training on the deepfake dataset. Moreover, Table 3 shows that the proposed 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 12 ===
+341:12 
+I. U. Haq et al. 
+Table 4. Class-wise Comparative Analysis of Proposed Neurosymbolic 
+Approach with GFGNN [ 36 ] 
+Method 
+Accuracy (%) 
+Obama 
+Clinton 
+Warren 
+Sanders 
+DFGNN [ 36 ] 
+69.1 
+65.8 
+67.6 
+63.4 
+Proposed 
+79.9 
+73.8 
+72.9 
+74.3 
+Fig. 5. Statistical analysis of Presidential Deepfakes Dataset based on proposed inter- and intra-modality 
+reasoning: (a) intra-modality reasoning for visual, (b) intra-modality reasoning for aural, and (c) inter- 
+modality reasoning for visual and aural. 
+framework correctly classified 8 among 10 predictions misclassified in [ 33 ]. Hence, the proposed 
+neurosymbolic approach is more reliable and explainable than that proposed in [ 33 ]. 
+4.4 Performance Evaluation on WLD 
+This section presents a performance evaluation of the proposed framework on the WLD [ 34 ]. The 
+experimental analysis resulted in an overall accuracy of 75.34%. Although the overall accuracy 
+was not extremely high, it was comparable with cross-dataset evaluations because the proposed 
+framework was trained on the emotion dataset only. For instance, the recently developed method 
+presented in [ 35 ] achieved an overall accuracy of 78.12% on the WLD when trained on the PDD. 
+Similarly, the method proposed in [ 36 ] achieved accuracies of 69.36% and 76.1% for the WLD when 
+trained on Celeb-DF and DFDC datasets, respectively. Table 4 presents the class-wise accuracy of 
+the proposed method. The proposed method detects inconsistencies in computer-generated fake 
+media; therefore, we discarded the imposter class from the evaluation. The Obama class for lip-sync 
+and face swaps was regarded as one class and achieved a maximum accuracy of 79.9%. Similarly, 
+Clinton, Warren, and Sanders achieved accuracies of 73.8%, 72.9%, and 74.3%, respectively. 
+4.5 Statistical Analysis of PDD 
+To further evaluate the proposed framework, we conducted a statistical analysis on the PDD to 
+confirm our hypothesis and demonstrate the effectiveness of the neurosymbolic approach. As dis- 
+cussed in Section 3.2 , we selected three frames and three overlapping audio segments per second 
+for FER and SER . The total duration of videos in the PDD was 11 min and 26 s, which implies 
+that approximately 2,058 sets of reasoning were performed for each modality. Figure 5 shows the 
+statistics of the intra-modality reasoning for visual and aural fake emotion transitions and the 
+inter-modality reasoning over the complete dataset. Clearly, the fake videos contained many fake 
+emotion transitions. For instance, in the visual modality, only 20% of the fake emotion transitions 
+were detected in real videos as compared with 56% in fake videos. Similarly, the ratio was 28:62 for 
+the actual and fake videos under the aural modality. The results of the inter-modality reasoning 
+can be similarly used to differentiate between matching and different emotions in real and fake 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 13 ===
+Multimodal Neurosymbolic Approach for Explainable Deepfake Detection 
+341:13 
+Table 5. Ablation Study of Proposed Neurosymbolic Approach 
+Modality 
+Intra-modality 
+(visual) 
+Intra-modality 
+(aural) 
+Inter-modality 
+Proposed 
+(Inter + Intra) 
+Accuracy (%) 
+87.5 
+84.3 
+87.5 
+93.7 
+videos. The proposed inter-modality module detected 37.6% of different emotions in fake videos 
+but only 6.9% of the same in real videos. 
+4.6 Ablation Study 
+We analyzed the effect of each reasoning module on the proposed framework, as listed in Table 5 . 
+For this analysis, we selected all 32 videos from the PDD and performed intra- and inter-modality 
+reasoning individually. The proposed method achieved accuracy of 87.5% for the visual intra- 
+modality and 84.3% for the aural intra-modality. Similarly, the accuracy for the inter-modality 
+reasoning was 87.5%. However, when we combined all the results via voting, the proposed solu- 
+tion achieved an accuracy of 93.7%. Our voting strategy is simple: we select the final prediction 
+if two of the three predictions are the same. Table 5 presents the results of the individual and 
+combined analyses. 
+4.7 Discussion on Explainability and Generalizability 
+The development of explainable and generalizable methods is crucial for enhancing the trust- 
+worthiness and reliability of machine learning models. Recently, the field of explainable AI has 
+advanced significantly owing to the emergence of new techniques and methodologies to improve 
+the interpretability and comprehensibility of machine learning models. However, they are pri- 
+marily intended for general purposes and focus on explaining the learning of deep models (i.e., 
+Grad-CAM [ 6 ], LRP [ 37 ], and PRM [ 38 ]), which are not directly beneficial to non-AI experts. 
+However, obtaining a generalized solution for all types of deepfakes is challenging because of the 
+continuous evolution of deepfake generation algorithms. Thus, in this study, we aim to improve 
+the explainability and generalizability of deepfake detection algorithms. One of the main advan- 
+tages of the proposed framework is its ability to provide clear and concise explanations regarding 
+the decisions made by the model using psychological knowledge of emotions. Our framework 
+is based on a novel biological signal that combines deep neural networks with knowledge-based 
+assisted symbolic reasoning, thus enabling both accurate predictions and interpretable explana- 
+tions. Symbolic reasoning serves as an intuitive approach for representing the decision-making 
+process of a framework, thus allowing it to be easily understood and interpreted. An example that 
+explains real and fake videos is illustrated in Figure 6 , which allows non-AI experts to easily under- 
+stand the rationale behind the proposed framework’s predictions. The Indx and Prob values from 
+Equations ( 7 ) and ( 8 ) are used to visualize Figure 6 , which indicate the timestamp at which the fake 
+emotion transition and mismatch in aural and visual emotions occurred. For instance, Figure 6 (a) 
+shows an example of a real video classified as real, with extremely few fake emotion transitions 
+and mismatched emotions (red highlighted portions). By contrast, a fake video classified as fake 
+contains more fake emotion transitions and mismatched emotions in both modalities, with more 
+red highlighted portions. In addition to explainability, the proposed framework exhibits a high 
+degree of generalizability owing to the use of common knowledge and is independent of training 
+on deepfake data. Our strategy enables the model to leverage knowledge learned from psychol- 
+ogy and emotions to deepen fake domains. Thus, transferring common knowledge across domains 
+renders the proposed framework more generalizable. 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 14 ===
+341:14 
+I. U. Haq et al. 
+Fig. 6. Visual example of real and fake emotion transitions in real and deepfake videos, respectively. 
+5 CONCLUSION 
+In this study, a novel framework that combines psychological knowledge and symbolic reasoning 
+to address the deepfake detection was proposed. The aim of this study was to improve the explain- 
+ability and generalizability of deepfake detection methods. Hence, we introduced a novel biological 
+signal (which demonstrates consistency between emotion transitions) based on a psychological 
+analysis of intra-modality reasoning, along with arousal-valence dimensions for inter-modality 
+reasoning. The proposed framework utilizes psychological knowledge, which can be explained in 
+terms of emotional consistency. Furthermore, no deepfake dataset is required for training, which 
+renders the proposed framework more generalizable owing to the underlying knowledge learned 
+from psychology and emotions in deepfake domains. Thus, transferring common knowledge 
+across domains renders the proposed framework more generalizable. We demonstrated that the 
+proposed framework correctly classifies videos misclassified by the deep learning method, which 
+confirmed the effectiveness of our approach in detecting deepfakes and highlighted the potential 
+of a neurosymbolic approach for achieving explainability. The proposed framework demonstrated 
+remarkable performance on the PDD, with an accuracy of 93.7%. Similarly, it achieved an overall 
+accuracy of 75.34% on the WLD. In the future, we plan to introduce artifact cues along with 
+biological signals to further improve performance over a diverse range of deepfake datasets. 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 15 ===
+Multimodal Neurosymbolic Approach for Explainable Deepfake Detection 
+341:15 
+REFERENCES 
+[1] R. K. Kaliyar, A. Goswami, P. Narang, and V. Chamola. 2022. Understanding the use and abuse of social media: 
+Generalized fake news detection with a multichannel deep neural network. IEEE Transactions on Computational Social 
+Systems (2022), 1–10. DOI: 10.1109/TCSS.2022.3221811 
+[2] F. Al-Shaarani, N. Basakran, and A. Gutub. 2020. Sensing e-banking cybercrimes vulnerabilities via smart information 
+sciences strategies. RAS Engineering and Technology 1, 1 (2020), 1–9. 
+[3] H. Qi et al. 2020. Deeprhythm: Exposing deepfakes with attentional visual heartbeat rhythms. In Proceedings of the 
+28th ACM International Conference on Multimedia . 4318–4327. 
+[4] T. Mittal, U. Bhattacharya, R. Chandra, A. Bera, and D. Manocha. 2020. Emotions don’t lie: An audio-visual deep- 
+fake detection method using affective cues. In Proceedings of the 28th ACM International Conference on Multimedia . 
+2823–2832. 
+[5] T. Jung, S. Kim, and K. Kim. 2017. Deepvision: Deepfakes detection using human eye blinking pattern. IEEE Access 8 
+(2020), 83144–83154. DOI: 10.1109/ACCESS.2020.2988660 
+[6] R. R. Selvaraju, M. Cogswell, A. Das, R. Vedantam, D. Parikh, and D. Batra. 2017. Grad-CAM: Visual explanations 
+from deep networks via gradient-based localization. In Proceedings of the IEEE International Conference on Computer 
+Vision . 618–626. 
+[7] H. Kautz. 2022. The third AI summer: AAAI Robert S. Engelmore memorial lecture. AI Magazine 43, 1 (2022), 105–125. 
+[8] R. Durall, M. Keuper, F.-J. Pfreundt, and J. Keuper. 2019. Unmasking deepfakes with simple features. arXiv preprint 
+arXiv:1911.00686 (2019). 
+[9] Y. Li and S. Lyu. 2019. DSP-FWA: Dual spatial pyramid for exposing face warp artifacts in deepfake videos. 18 (2019). 
+[10] Y. Nirkin, L. Wolf, Y. Keller, and T. Hassner. 2020. Deepfake detection based on the discrepancy between the face and 
+its context. arXiv preprint arXiv:2008.12262. 
+[11] I. Masi, A. Killekar, R. M. Mascarenhas, S. P. Gurudatt, and W. AbdAlmageed. 2020. Two-branch recurrent network for 
+isolating deepfakes in videos. In Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 
+2020 , Proceedings, Part VII 16, Springer International Publishing, 667–684. 
+[12] C. Zhao, C. Wang, G. Hu, H. Chen, C. Liu, and J. Tang. 2023. IST V T: Interpretable spatial-temporal video transformer 
+for deepfake detection. 18 (2023), 1335–1348. 
+[13] S. Ge, F. Lin, C. Li, D. Zhang, W. Wang, and D. Zeng. 2022. Deepfake video detection via predictive representation 
+learning. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 18, 2 (2022), 1–21. 
+[14] Y. Y. Sun, Z. Y. Zhang, I. Echizen, H. H. Nguyen, C. Z. Qiu, and L. Sun. 2023. Face forgery detection based on facial 
+region displacement trajectory series. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer 
+Vision , 633–642. 
+[15] Hernandez-Ortega, Javier, Ruben Tolosana, Julian Fierrez, and Aythami Morales. 2020. Deepfakeson-phys: Deepfakes 
+detection based on heart rate estimation. arXiv preprint arXiv:2010.00400 (2020). 
+[16] U. A. Ciftci, I. Demir, and L. Yin. 2020. Fakecatcher: Detection of synthetic portrait videos using biological signals. 
+IEEE Transactions on Pattern Analysis and Machine Intelligence (2020). DOI: 10.1109/TPAMI.2020.3009287 
+[17] M. Mao and J. Yang. 2021. Exposing Deepfake with Pixel-wise AR and PPG Correlation from Faint Signals . arXiv preprint 
+arXiv:2110.15561 (2021). 
+[18] X. Jin, D. Ye, and C. Chen. 2021. Countering spoof: towards detecting deepfake with multidimensional biological 
+signals. Security and Communication Networks 2021 (2021), 1–8. 
+[19] S. Fernandes, S. Raj, E. Ortiz, I. Vintila, M. Salter, G. Urosevic, and S. Jha. 2019. Predicting heart rate variations of 
+deepfake videos using neural ode. In Proceedings of the IEEE/CVF International Conference on Computer Vision Work- 
+shops . 
+[20] Q. Miao, S. Kang, S. Marsella, S. DiPaola, C. Wang, and A. Shapiro. 2022. Study of detecting behavioral signatures 
+within DeepFake videos. arXiv preprint arXiv:2208.03561 (2022). 
+[21] S. Agarwal and H. Farid. 2021. Detecting deep-fake videos from aural and oral dynamics. In Proceedings of the 
+IEEE/CVF Conference on Computer Vision and Pattern Recognition . 981–989. 
+[22] S. Agarwal, L. Hu, E. Ng, T. Darrell, H. Li, and A. Rohrbach. 2023. Watch those words: Video falsification detection 
+using word-conditioned facial motion. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer 
+Vision . 4710–4719. 
+[23] G. Mazaheri and A. K. Roy-Chowdhury. 2022. Detection and localization of facial expression manipulations. In Pro- 
+ceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision . 1035–1045. 
+[24] B. Hosler et al. 2021. Do deepfakes feel emotions? A semantic approach to detecting deepfakes via emotional incon- 
+sistencies. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition . 1013–1022. 
+[25] K. Zhang, Z. Zhang, Z. Li, and Y. Qiao. 2016. Joint face detection and alignment using multitask cascaded convolutional 
+networks. IEEE Signal Processing Letters 23, 10 (2016), 1499–1503. 
+[26] J. Wu. https://github.com/WuJie1010/Facial- Expression- Recognition.Pytorch . (Accessed February 15, 2023). 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+
+=== PAGE 16 ===
+341:16 
+I. U. Haq et al. 
+[27] FER2013. https://w w w.kaggle.com/datasets/msambare/fer2013 . (Accessed on Februar y 15, 2023). 
+[28] S. R. Livingstone and F. A. Russo. 2018. The Ryerson audio-visual database of emotional speech and song (RAVDESS): 
+A dynamic, multimodal set of facial and vocal expressions in North American English. PloS one 13, 5 (2018), e0196391. 
+DOI: https://doi.org/10.1371/journal.pone.0196391 
+[29] Emotion recognition using speech. 2023. https://github.com/x4nth055/emotion- recognition- using- speech . (Accessed 
+February 15, 2023). 
+[30] F. J. Ren. 2009. Affective information processing and recognizing human emotion. Electronic Notes in Theoretical 
+Computer Science 225 (2009), 39–50. DOI: https://doi.org/10.1016/j.entcs.2008.12.065 
+[31] Y. Li and S. Lyu. 2019. Exposing DeepFake videos by detecting face warping artifacts. In IEEE Conference on Computer 
+Vision and Pattern Recognition Workshops (CVPRW’19) . 
+[32] A. Tursunov, S. Kwon, and H.-S. Pang. 2019. Discriminating emotions in the valence dimension from speech using 
+timbre features. Applied Sciences 9, 12 (2019), 2470. DOI: https://doi.org/10.3390/app9122470 
+[33] A. Sankaranarayanan, M. Groh, R. Picard, and A. Lippman. 2021. The presidential deepfakes dataset. In 1st Workshop 
+on Adverse Impacts and Collateral Effects of Artificial Intelligence Technologies (Workshop AIofAI ‘21). Vol. 2942. http: 
+//ceur-ws . Org. 
+[34] S. Agarwal, H. Farid, Y. Gu, M. He, K. Nagano, and H. Li. 2019. Protecting world leaders against deep fakes. In 
+Conference on Computer Vision and Pattern Recognition (CVPR) . 38. 
+[35] M. A. Raza and K. M. Malik. 2023. Multimodaltrace: Deepfake detection using audiovisual representation learning. 
+In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition . 993–1000. 
+[36] F. Khalid, A. Javed, H. Ilyas, and A. Irtaza. 2023. DFGNN: An interpretable and generalized graph neural network for 
+deepfakes detection. Expert Systems with Applications 222 (2023), 119843. 
+[37] Wojciech Samek, Grégoire Montavon, Alexander Binder, Sebastian Lapuschkin, and Klaus-Robert Müller. 2016. Inter- 
+preting the predictions of complex ML models by layer-wise relevance propagation. arXiv preprint arXiv:1611.08191. 
+[38] Y. Zhou, Y. Zhu, Q. Ye, Q. Qiu, and J. Jiao. 2018. Weakly supervised instance segmentation using class peak response. 
+In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition . 3791–3800 
+Received 30 March 2023; revised 31 July 2023; accepted 27 August 2023 
+ACM Trans. Multimedia Comput. Commun. Appl., Vol. 20, No. 11, Article 341. Publication date: September 2024. 
+

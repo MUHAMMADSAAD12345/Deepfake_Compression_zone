@@ -1,0 +1,20 @@
+To: arunas@media.mit.edu
+Subject: Request for Access to Presidential Deepfakes Dataset (PDD)
+
+Dear Prof. Sankaranarayanan,
+
+I am writing to request access to the Presidential Deepfakes Dataset (PDD) described in your paper "The Presidential Deepfakes Dataset" (CEUR Workshop Proceedings, Vol-2942, AIofAI'21).
+
+I am currently reimplementing the multimodal neurosymbolic deepfake detection framework from the paper "Multimodal Neurosymbolic Approach for Explainable Deepfake Detection" (ACM TOMCCAP, DOI: 10.1145/3624748) for benchmarking purposes.
+
+The PDD dataset (32 videos of US Presidents, including lip-sync manipulations and impersonated audio) is one of the key evaluation datasets used in that paper, and access to it would allow me to directly compare my reimplementation against the published results.
+
+My use of the dataset will be strictly for academic research and benchmarking purposes.
+
+Could you please provide information on how to access the dataset? If there is a data usage agreement or form I need to complete, please let me know.
+
+Thank you for your time and consideration.
+
+Best regards,
+[Your Name]
+[Your Affiliation]
